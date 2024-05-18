@@ -1,0 +1,13 @@
+{
+    "navbar": {
+        "linkOne": "Nuestro Eco-Pueblo",
+        "linkTwo": "Nuestros Safaris",
+        "linkThree": "Gabón",
+        "linkFour": "Consejos para Viajeros",
+        "linkFive": "Contacto",
+        "selectLanguage": "Idioma",
+        "france": "Francés",
+        "spanish": "Español",
+        "english": "Inglés"
+    }
+}

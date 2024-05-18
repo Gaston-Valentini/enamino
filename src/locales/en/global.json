@@ -1,0 +1,13 @@
+{
+    "navbar": {
+        "linkOne": "Our Eco-Village",
+        "linkTwo": "Our Safaris",
+        "linkThree": "Gabon",
+        "linkFour": "Traveler's Tips",
+        "linkFive": "Contact",
+        "selectLanguage": "Language",
+        "france": "French",
+        "spanish": "Spanish",
+        "english": "English"
+    }
+}

@@ -1,0 +1,134 @@
+.container {
+    position: fixed;
+    width: calc(100% - 40px);
+    height: 60px;
+    padding: 0 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+    background-color: var(--white);
+    box-shadow: 0 0 10px var(--shadow);
+    z-index: 1000;
+}
+
+.logo {
+    height: 80%;
+}
+
+.logo img {
+    height: 100%;
+}
+
+.switch {
+    display: none;
+}
+
+.links {
+    height: 100%;
+    padding: 0;
+    list-style: none;
+    display: flex;
+}
+
+.linksLink a {
+    height: 100%;
+    padding: 0 20px;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    font-weight: 600;
+    color: var(--brown);
+    transition: 0.3s;
+}
+
+.linksLink a:hover {
+    color: var(--green);
+    background-color: var(--brown);
+}
+
+.language {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.languageFlag {
+    height: 20px;
+    border: 1px solid black;
+}
+
+.languageFlag img {
+    height: 100%;
+}
+
+.languageSelector {
+    font-weight: 600;
+    color: var(--brown);
+    border: none;
+    background-color: var(--white);
+}
+
+.languageSelector:focus {
+    color: var(--green);
+    background-color: var(--brown);
+    outline: none;
+}
+
+@media (max-width: 991px) {
+    .container {
+        height: 50px;
+    }
+
+    .switch {
+        display: flex;
+        font-size: 30px;
+        color: var(--brown);
+    }
+
+    .switch:hover {
+        cursor: pointer;
+    }
+
+    .links {
+        position: absolute;
+        top: 50px;
+        left: 0;
+        height: calc(100vh - 70px);
+        width: 100%;
+        padding-top: 20px;
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+        background-color: var(--brown);
+        transition: 0.3s;
+    }
+
+    .linksMobile {
+        left: 100%;
+    }
+
+    .linksLink a {
+        padding: 0;
+        color: var(--green);
+    }
+
+    .language {
+        position: absolute;
+        top: calc(100vh - 40px);
+        left: 0;
+        width: 100%;
+        justify-content: center;
+        background-color: var(--brown);
+        transition: 0.3s;
+    }
+
+    .languageMobile {
+        left: 100%;
+    }
+
+    .languageSelector {
+        color: var(--green);
+        background-color: var(--brown);
+    }
+}

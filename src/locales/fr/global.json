@@ -1,0 +1,13 @@
+{
+    "navbar": {
+        "linkOne": "Notre Eco-Village",
+        "linkTwo": "Nos Safaris",
+        "linkThree": "Le Gabon",
+        "linkFour": "Conselis aux Voyageurs",
+        "linkFive": "Contact",
+        "selectLanguage": "Langue",
+        "france": "Français",
+        "spanish": "Espagnol",
+        "english": "Anglais"
+    }
+}
