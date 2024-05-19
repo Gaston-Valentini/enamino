@@ -9,5 +9,10 @@
         "france": "Français",
         "spanish": "Espagnol",
         "english": "Anglais"
+    },
+    "camp": {
+        "title": "NOTRE CAMP ÉCO-TOURISTIQUE",
+        "text": "Pour une immersion totale dans la vie sauvage, confortable camp de brousse de petite capacité, afin de vous faire bénéficier d’instants privilégiés au plus proche de la nature. Situé sur une falaise rocheuse peu élevée en bordure d’une longue plage déserte, l’Eco-village d’Enamino est composé d’une paillote centrale « Restaurant-Bar-Réception », d'un bungalow avec 3 chambres individuelles de 2 couchages chacune, ainsi que d'un bungalow familial de 4 à 5 couchages. Construit dans le respect total de l’environnement, notre éco-lodge fonctionne à l’énergie solaire, à la lampe à pétrole et ne dispose qu’occasionnellement d’un générateur. Pour un impact minimum sur la nature, récupération des eaux de pluie et traitement des déchets par compostage et brûlage.",
+        "button": "Contactez-nous"
     }
 }

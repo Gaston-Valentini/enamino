@@ -69,6 +69,10 @@
     background-color: var(--white);
 }
 
+.languageSelector:hover {
+    cursor: pointer;
+}
+
 .languageSelector:focus {
     color: var(--green);
     background-color: var(--brown);
