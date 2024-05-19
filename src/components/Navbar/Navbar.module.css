@@ -64,7 +64,6 @@
 
 .languageSelector {
     font-weight: 600;
-    color: var(--brown);
     border: none;
     background-color: var(--white);
 }
@@ -77,6 +76,10 @@
     color: var(--green);
     background-color: var(--brown);
     outline: none;
+}
+
+.languageSelector option {
+    color: var(--green);
 }
 
 @media (max-width: 991px) {

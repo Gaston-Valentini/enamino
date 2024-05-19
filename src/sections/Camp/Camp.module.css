@@ -20,20 +20,18 @@
 
 .dataInfoTitle {
     font-size: 25px;
-    font-weight: 800;
+    font-weight: 900;
     font-family: var(--secondary);
-    color: var(--brown);
 }
 
 .dataInfoText {
     max-width: 500px;
-    color: var(--brown);
 }
 
 .dataInfoButton {
     align-self: flex-start;
     padding: 10px;
-    color: var(--brown);
+    font-weight: 600;
     background-color: var(--white);
     border: 2px solid var(--brown);
     transition: 0.3s;
@@ -61,7 +59,7 @@
         grid-template-columns: 1fr;
     }
     .data {
-        padding: 20px;
+        padding: 50px 20px;
     }
     .dataInfoTitle {
         font-size: 20px;

@@ -1,0 +1,99 @@
+.container {
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 50px;
+    background-color: var(--white);
+}
+
+.titles {
+    max-width: 1000px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+.titlesTitle {
+    text-align: center;
+    font-size: 30px;
+    font-family: var(--secondary);
+    font-weight: 900;
+}
+
+.titlesSubtitle {
+    text-align: center;
+}
+
+.data {
+    display: flex;
+    gap: 50px;
+}
+
+.dataList {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.dataList li {
+    position: relative;
+    padding-left: 20px; /* Espacio para el bullet personalizado */
+}
+
+.dataList li::before {
+    content: "*";
+    color: var(--green);
+    position: absolute;
+    left: 0;
+    top: 0;
+    font-size: 3em;
+    line-height: 1;
+}
+
+.images {
+    max-width: 1200px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+}
+
+.imagesImage {
+    box-shadow: -2px 2px 5px var(--shadow);
+}
+
+.imagesImage img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.text {
+    max-width: 1000px;
+    text-align: center;
+    font-style: italic;
+    font-weight: 900;
+    color: var(--green);
+}
+
+@media (max-width: 768px) {
+    .container {
+        padding: 50px 20px;
+    }
+    .titlesTitle {
+        font-size: 20px;
+    }
+}
+
+@media (max-width: 600px) {
+    .data {
+        flex-direction: column;
+        gap: 10px;
+    }
+    .images {
+        grid-template-columns: 1fr;
+    }
+}

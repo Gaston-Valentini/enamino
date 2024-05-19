@@ -14,5 +14,22 @@
         "title": "NOTRE CAMP ÉCO-TOURISTIQUE",
         "text": "Pour une immersion totale dans la vie sauvage, confortable camp de brousse de petite capacité, afin de vous faire bénéficier d’instants privilégiés au plus proche de la nature. Situé sur une falaise rocheuse peu élevée en bordure d’une longue plage déserte, l’Eco-village d’Enamino est composé d’une paillote centrale « Restaurant-Bar-Réception », d'un bungalow avec 3 chambres individuelles de 2 couchages chacune, ainsi que d'un bungalow familial de 4 à 5 couchages. Construit dans le respect total de l’environnement, notre éco-lodge fonctionne à l’énergie solaire, à la lampe à pétrole et ne dispose qu’occasionnellement d’un générateur. Pour un impact minimum sur la nature, récupération des eaux de pluie et traitement des déchets par compostage et brûlage.",
         "button": "Contactez-nous"
+    },
+    "bungalow": {
+        "title": "LOGEMENT en BUNGALOW ou en TENTE",
+        "subtitle": "Élaboré sous forme de village-bungalow selon le modèle des habitations de l’Ogooué-Maritime, avec des matériaux locaux: bois, bambou, raphia, écorce, toit tissè en paille",
+        "listOne": "1 lit double",
+        "listTwo": "2 lits simples superposés dans un des bungalow",
+        "listThree": "Moustiquaires",
+        "listFour": "Ventilation naturelle grâce à l'air océanique",
+        "listFive": "Eclairage avec lampe solaire",
+        "listSix": "Salle de bain avec douche et sanitaire",
+        "listSeven": "Douche traditionnelle au seau avec récupération des eaux de pluie",
+        "listEight": "Eau chaude chauffée au feu de bois",
+        "listNine": "Terrasse face à la mer ",
+        "listTen": "Draps, serviettes et couvertures polaires fournis",
+        "listEleven": "Possibilité de dormir en tente-dôme de 2 ou 4 places si bungalows complets",
+        "listTwelve": "Organisation de bivouacs en brousse",
+        "text": "...Unique, vue panoramique sur l’océan, de laquelle vous pourrez distinguer durant les nuits obscures les vagues chargées de planctons phosphorescents. Le jour, dauphins et tortues viennent se nourrir dans les rochers face au campement..."
     }
 }
