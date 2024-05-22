@@ -31,5 +31,16 @@
         "listEleven": "Possibilité de dormir en tente-dôme de 2 ou 4 places si bungalows complets",
         "listTwelve": "Organisation de bivouacs en brousse",
         "text": "...Unique, vue panoramique sur l’océan, de laquelle vous pourrez distinguer durant les nuits obscures les vagues chargées de planctons phosphorescents. Le jour, dauphins et tortues viennent se nourrir dans les rochers face au campement..."
+    },
+    "menu": {
+        "title": "PENSION COMPLÈTE ET TABLE D’HÔTE",
+        "subtitle": "Vous pourrez découvrir et savourer les délicieuses saveurs africaines en fonction de la saison et de l'offre",
+        "listOne": "Les spécialités locales : Odica, Nyenboué, feuilles de manioc",
+        "listTwo": "Les délicieux poissons fraîchement pêchés sur place",
+        "listThree": "Les fameuses huîtres d’Enamino fraiches ou gratinées",
+        "listFour": "Le poulet mariné à la braise et autres grillades",
+        "listFive": "Les fruits et légumes de saison provenant de notre potager ou des plantations voisines : ananas, papaye, coco, banane douce et banane plantain, avocat, manioc, tarot, tomate, aubergine, fruit à pain... ",
+        "listSix": "Les boissons fraîches : bières locales et internationales, jus de fruits, sodas, eaux minérales, vins etc",
+        "listSeven": "Pique-nique fourni pour toutes les excursions à la journée"
     }
 }
