@@ -43,7 +43,19 @@
         "listSix": "Les boissons fraîches : bières locales et internationales, jus de fruits, sodas, eaux minérales, vins etc",
         "listSeven": "Pique-nique fourni pour toutes les excursions à la journée"
     },
-    "bannerOne": {
-        "text": "''Un paradis africain avec une biodiversité exceptionnelle, au sein duquel vous pourrez jouir d’une tranquillité et goûter la vie sauvage à l’état pur''"
+    "enviroment": {
+        "headingTitle": "NOTRE ENVIRONNEMENT SAUVAGE",
+        "headingText": "Serti entre forêt et océan, le long d’une plage sauvage restée parfaitement intacte, le site d’Enamino vous laisse le choix entre: Sèjour détente en 'Forfait  Libre', et sèjour avec activités en 'Forfait Excursion'.",
+        "headingButton": "Nos Activitès",
+        "cardTitleOne": "Un environnement où...",
+        "cardTextOne": "...une plage entourée d'une forêt luxuriante et d'une végétation caractéristique, ainsi que des animaux tels que des crabes et des coquillages fantômes, des hippopotames, des antilopes sitatunga, des céphalophes, des éléphants de forêt (ou assalas), des gorilles des plaines occidentales et des chimpanzés des deux côtés des deux lagunes qui entourent Enamino. Plusieurs espèces de tortues marines (luth, verte, olivâtre, caret) viennent pondre leurs œufs sur la plage sauvage d'Enamino d'octobre à mars.",
+        "cardTitleTwo": "Bercé par l'océan..",
+        "cardTextTwo": "...depuis ton hamac, tu pourras distinguer des groupes de dauphins naviguant paisiblement sur les vagues en face du campement et des baleines à bosse venant s'accoupler et mettre bas de juin à septembre dans les eaux chaudes du Gabon, et admirer leurs sauts spectaculaires.",
+        "cardTitleThree": "Tu pourras écouter...",
+        "cardTextThree": "...les chants caractéristiques du coucal et de l'ibis hagedash, ainsi qu'une multitude d'autres oiseaux facilement observables depuis le campement, tels que des colonies de guêpiers gris-rosés, des bandes de perroquets du Gabon ou Jaco, des pipits à longues pattes, plusieurs espèces de souimangas, des martins-pêcheurs, des calaos, des touracos, des oiseaux marins, des courlis et des pélicans gris.",
+        "cardTitleFour": "Tu pourras également...",
+        "cardTextFour": "...pêcher depuis la plage sauvage d'Enamino, seul ou accompagné d'un guide, en pêche sportive ou en 'Initiation à la pêche traditionnelle', ou même faire du surf ou du kite avec ta planche sur les vagues de l'océan.",
+        "cardTitleFive": "Tu apprécieras...",
+        "cardTextFive": "...plusieurs terrasses naturelles offrant une vue panoramique sur l'océan, rendant ainsi tes apéritifs au coucher du soleil mémorables."
     }
 }

@@ -2,7 +2,7 @@ import style from "./Village.module.css";
 import Camp from "../../sections/Camp/Camp";
 import Bungalow from "../../sections/Bungalow/Bungalow";
 import Menu from "../../sections/Menu/Menu";
-import Banner from "../../sections/BannerOne/Banner";
+import Enviroment from "../../sections/Enviroment/Enviroment";
 
 export default function Village() {
     return (
@@ -10,7 +10,7 @@ export default function Village() {
             <Camp />
             <Bungalow />
             <Menu />
-            <Banner />
+            <Enviroment />
         </section>
     );
 }

@@ -1,0 +1,159 @@
+.container {
+    background-image: url("../../assets/images/enviroment-heading.jpg");
+    background-size: cover;
+}
+
+.overlay {
+    width: calc(100% - 100px);
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 50px;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.content {
+    max-width: 1000px;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.heading {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+.headingOverlay {
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.headingTitle {
+    text-align: center;
+    font-family: var(--secondary);
+    font-size: 30px;
+    font-weight: 800;
+    color: var(--green);
+}
+
+.headingText {
+    text-align: center;
+    color: var(--white);
+}
+
+.headingButton {
+    padding: 10px;
+    text-decoration: none;
+    color: var(--white);
+    background-color: transparent;
+    border: 1px solid var(--white);
+    transition: 0.3s;
+}
+
+.headingButton:hover {
+    color: var(--brown);
+    background-color: var(--white);
+}
+
+.cards {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 50px;
+}
+
+.cardsCardLeft {
+    max-width: 800px;
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 20px;
+    background-color: var(--white);
+    box-shadow: -2px 2px 4px black;
+}
+
+.cardsCardRight {
+    max-width: 800px;
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 20px;
+    background-color: var(--white);
+    box-shadow: -2px 2px 4px rgb(25, 25, 25);
+}
+
+.cardsCardLeftData {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.cardsCardRightData {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.cardsCardLeftDataTitle {
+    font-family: var(--secondary);
+    font-size: 20px;
+    font-weight: 800;
+    color: var(--green);
+}
+
+.cardsCardRightDataText {
+    text-align: right;
+}
+
+.cardsCardRightDataTitle {
+    text-align: right;
+    font-family: var(--secondary);
+    font-size: 20px;
+    font-weight: 800;
+    color: var(--green);
+}
+
+.cardsCardImage {
+    height: 100%;
+    width: 100%;
+}
+
+.cardsCardImage img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+@media (max-width: 800px) {
+    .overlay {
+        width: calc(100% - 40px);
+        padding: 50px 20px;
+    }
+    .cards {
+        gap: 20px;
+    }
+}
+
+@media (max-width: 800px) {
+    .cardsCardLeft {
+        display: flex;
+        flex-direction: column;
+        gap: 0;
+    }
+    .cardsCardRight {
+        display: flex;
+        flex-direction: column-reverse;
+        gap: 0;
+    }
+    .cardsCardImage img {
+        transform: translateY(3px);
+    }
+}

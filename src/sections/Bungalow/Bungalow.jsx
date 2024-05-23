@@ -121,7 +121,7 @@ export default function Bungalow() {
         <section className={style.container}>
             <div className={style.titles}>
                 <p className={style.titlesTitle}>{t("bungalow.title")}</p>
-                <div className={style.titlesSubtitle}>{t("bungalow.subtitle")}</div>
+                <p className={style.titlesSubtitle}>{t("bungalow.subtitle")}</p>
             </div>
             <div className={style.data}>
                 <ul className={style.dataList}>
