@@ -1,0 +1,37 @@
+.container {
+    background-image: url("../../assets//images/header.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.overlay {
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    background-color: rgba(221, 229, 182, 0.6);
+}
+
+.logo {
+    width: 100%;
+    max-width: 500px;
+}
+
+.logo img {
+    width: 100%;
+}
+
+.slogan {
+    max-width: 800px;
+    text-align: center;
+    font-family: var(--secondary);
+    font-size: 20px;
+    font-weight: 800;
+}
+
+@media (max-width: 800px) {
+    .overlay {
+        padding: 50px 20px;
+    }
+}
