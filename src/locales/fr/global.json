@@ -42,5 +42,8 @@
         "listFive": "Les fruits et légumes de saison provenant de notre potager ou des plantations voisines : ananas, papaye, coco, banane douce et banane plantain, avocat, manioc, tarot, tomate, aubergine, fruit à pain... ",
         "listSix": "Les boissons fraîches : bières locales et internationales, jus de fruits, sodas, eaux minérales, vins etc",
         "listSeven": "Pique-nique fourni pour toutes les excursions à la journée"
+    },
+    "bannerOne": {
+        "text": "''Un paradis africain avec une biodiversité exceptionnelle, au sein duquel vous pourrez jouir d’une tranquillité et goûter la vie sauvage à l’état pur''"
     }
 }
