@@ -1,0 +1,16 @@
+.container {
+    background-position: center;
+}
+
+.overlay {
+    padding: 100px 20px;
+    display: flex;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.text {
+    font-size: 50px;
+    font-family: var(--secondary);
+    color: var(--white);
+}
