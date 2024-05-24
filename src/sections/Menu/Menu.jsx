@@ -11,8 +11,8 @@ export default function Menu() {
     return (
         <section className={style.container}>
             <div className={style.titles}>
-                <div className={style.titlesTitle}>{t("menu.title")}</div>
-                <div className={style.titlesSubtitle}>{t("menu.subtitle")}</div>
+                <p className={style.titlesTitle}>{t("menu.title")}</p>
+                <p className={style.titlesSubtitle}>{t("menu.subtitle")}</p>
             </div>
             <div className={style.data}>
                 <ul className={style.dataList}>

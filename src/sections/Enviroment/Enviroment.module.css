@@ -142,7 +142,7 @@
     }
 }
 
-@media (max-width: 800px) {
+@media (max-width: 600px) {
     .cardsCardLeft {
         display: flex;
         flex-direction: column;
