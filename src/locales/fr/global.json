@@ -8,6 +8,7 @@
         "linkThree": "Le Gabon",
         "linkFour": "Conselis aux Voyageurs",
         "linkFive": "Contact",
+
         "selectLanguage": "Langue",
         "france": "Français",
         "spanish": "Espagnol",
@@ -21,6 +22,7 @@
     "bungalow": {
         "title": "LOGEMENT en BUNGALOW ou en TENTE",
         "subtitle": "Élaboré sous forme de village-bungalow selon le modèle des habitations de l’Ogooué-Maritime, avec des matériaux locaux: bois, bambou, raphia, écorce, toit tissè en paille",
+
         "listOne": "1 lit double",
         "listTwo": "2 lits simples superposés dans un des bungalow",
         "listThree": "Moustiquaires",
@@ -33,11 +35,13 @@
         "listTen": "Draps, serviettes et couvertures polaires fournis",
         "listEleven": "Possibilité de dormir en tente-dôme de 2 ou 4 places si bungalows complets",
         "listTwelve": "Organisation de bivouacs en brousse",
+
         "text": "...Unique, vue panoramique sur l’océan, de laquelle vous pourrez distinguer durant les nuits obscures les vagues chargées de planctons phosphorescents. Le jour, dauphins et tortues viennent se nourrir dans les rochers face au campement..."
     },
     "menu": {
         "title": "PENSION COMPLÈTE ET TABLE D’HÔTE",
         "subtitle": "Vous pourrez découvrir et savourer les délicieuses saveurs africaines en fonction de la saison et de l'offre",
+
         "listOne": "Les spécialités locales : Odica, Nyenboué, feuilles de manioc",
         "listTwo": "Les délicieux poissons fraîchement pêchés sur place",
         "listThree": "Les fameuses huîtres d’Enamino fraiches ou gratinées",
@@ -50,6 +54,7 @@
         "headingTitle": "NOTRE ENVIRONNEMENT SAUVAGE",
         "headingText": "Serti entre forêt et océan, le long d’une plage sauvage restée parfaitement intacte, le site d’Enamino vous laisse le choix entre: Sèjour détente en 'Forfait  Libre', et sèjour avec activités en 'Forfait Excursion'.",
         "headingButton": "Nos Activitès",
+
         "cardTitleOne": "Un environnement où...",
         "cardTextOne": "...une plage entourée d'une forêt luxuriante et d'une végétation caractéristique, ainsi que des animaux tels que des crabes et des coquillages fantômes, des hippopotames, des antilopes sitatunga, des céphalophes, des éléphants de forêt (ou assalas), des gorilles des plaines occidentales et des chimpanzés des deux côtés des deux lagunes qui entourent Enamino. Plusieurs espèces de tortues marines (luth, verte, olivâtre, caret) viennent pondre leurs œufs sur la plage sauvage d'Enamino d'octobre à mars.",
         "cardTitleTwo": "Bercé par l'océan..",
@@ -63,10 +68,52 @@
     },
     "loango": {
         "title": "LE PARC NATIONAL DE LOANGO",
+
         "blockOne": "Considéré par les spécialistes comme l’UN DES PARCS LES PLUS RICHES D’AFRIQUE CENTRALE, il constitue un véritable réservoir de biodiversité aux biotopes variés : forêt galerie, savane, marécage, mangrove, lagune, plage Le Parc National de Loango s'étend sur une superficie de 1 550 km². Bras de terre s’étirant sur 86 kilomètres situé entre océan et lagunes: au Nord la Lagune d’Iguela (alias Lagune Ngové) et au Sud la Lagune de Sette Cama (alias Lagune Ndogo), à l’Ouest de grands marécages et à l’Est l’Océan Atlantique. Ce parc regroupe les anciennes réserves naturelles d’Iguela et de Sette-Cama et il a la particularité de ne pouvoir être traversé dans sa totalité, qu’à pied.",
         "blockTwo": "Réputé pour sa GRANDE CONCENTRATION D’ÉLÉPHANTS de forêt ou assalas et ses HIPPOPOTAMES SURFANT sur les vagues. Sur ses plages que borde la forêt, de grands singes, buffles de forêt, potamochères, panthères et tortues marines viennent se retrouver au coucher du soleil, devant le saut spectaculaire des baleines.",
         "blockThree": "C'est sur la plage de «Petit-Loango» que le biologiste et aventurier Mike Fay arriva au terme de son célèbre « Méga-Transect», expédition scientifique de 2000 miles (3 200 km) à pied au cœur de la jungle du Bassin du Congo, qui dura 456 jours. Emerveillé par la richesse de la faune et de la flore encore intacte qu’il avait traversé, aux paysages inchangés depuis l’aube de l’humanité, il baptisa le pays : « LE DERNIER SANCTUAIRE ÉCOLOGIQUE DE LA PLANÈTE ». En 2002, il convainc la Présidence de la création de 13 Parcs Nationaux.",
         "blockFour": "Les plus beaux reportages sur le Gabon et le Bassin du Congo ont été filmés durant sept mois sur le Parc National de Loango par l’équipe de Nick Nichols, l’un des meilleurs photographes de la NATIONAL GEOGRAPHIC SOCIETY. « Nulle part ailleurs, vous ne pourrez voir à la fois, des éléphants sur la plage et le ballet des baleines à bosse en mer »"
     },
-    "safarisHeader": "Nos Safaris"
+    "safarisHeader": "Nos Safaris",
+    "safaris": {
+        "title": "NOS DIFFÉRENTS SAFARIS A LOANGO",
+
+        "safariOneTitle": "SAFARI-BATEAU SUR LE PN LOANGO",
+        "safariOneInfoTitleOne": "Pour les familles... ",
+        "safariOneInfoTextOne": "Tour de lagune en bateau le long des berges du Parc National de Loango Quelques silencieuses approches à pied vous permettront d’observer au mieux les animaux situés prés de la rive",
+        "safariOneListTitle": "DÉROULEMENT DU SAFARI",
+        "safariOneListOne": "Départ du lodge le matin en 4x4 jusqu’au poste de la «Brigade de Faune» situé en bordure de la Lagune d’Iguela, face au Parc National de Loango (30 mn)",
+        "safariOneListTwo": "Départ en bateau pour un parcours autour du Parc National de Loango à la recherche d'animaux",
+        "safariOneListThree": "Retour au camp d' Enamino en fin d’après-midi",
+        "safariOneListFour": "Pique-nique inclus",
+        "safariOneListFive": "Sur responsabilité des parents pour les enfants mineurs",
+
+        "safariTwoTitle": "SAFARI-TREKKING SUR LE PN DE LOANGO",
+        "safariTwoOptions": "Plusieurs options:",
+        "safariTwoInfoTitleOne": "Pour une approche inoubliable de la nature et des animaux... ",
+        "safariTwoInfoTextOne": "Pour goûter au plaisir authentique de la vie sauvage...Plusieurs parcours à la journée qui suivent par endroit des pistes d’éléphants, vous conduiront au terme de randonnées inoubliables de plusieurs kilomètres, sur une magnifique plage de sable blanc pour des rencontres uniques avec les animaux",
+        "safariTwoInfoTitleTwo": "Pour les amateurs de sensations fortes... ",
+        "safariTwoInfoTextTwo": "Pour une immersion totale au sein d’un environnement resté intact, pour vous imprégner et vivre à l’unisson avec la nature...possibilité d'organiser des périples à pied de plusieurs jours avec bivouac en brousse",
+        "safariTwoListTitle": "DÉROULEMENT DU SAFARI",
+        "safariTwoListOne": "Départ matinal du lodge en 4x4 jusqu’au poste de la «Brigade de Faune» situé en bordure de la Lagune d’Iguela, face au PN Loango (40 mn)",
+        "safariTwoListTwo": "Passage en bateau sur le parc  de Loango (15 mn)",
+        "safariTwoListThree": "Randonnée sur le Parc National Loango sur les traces fraîches d'animaux",
+        "safariTwoListFour": "Retour à la nuit tombée à Enamino ",
+        "safariTwoListFive": "Pique-nique inclus",
+        "safariTwoListSix": "Groupe de 8 personnes maximum ",
+        "safariTwoListSeven": "Réservé aux bons marcheurs",
+        "safariTwoListEight": "Non autorisé aux enfants de moins de 12 ans. Sur responsabilité des parents pour les enfants mineurs",
+
+        "safariThreeTitle": "S AFARI-BOTE A  A KAKA - SUR  PN L OANGO",
+        "safariThreeInfoTextOne": "Véritable paradis pour les ornithologues et les photographes Magnifique excursion en bateau durant toute une journée, réalisable toute l’année...Incontournable en saison sèche, de juin à septembre. Après avoir traversè en bateau la Lagune d’Iguela dans toute sa longueur vous arriverez à Akaka. Vous pénétrerez dans les entrailles du Parc National de Loango et atteindrez le réseau de rivières du Rembo Eshira et Rembo Ngové, qui alimentent cette lagune. Marécage transformé en verte prairie en saison sèche, Akaka devient alors un lieu privilégié d'une exceptionnelle abondance où se concentrent entre autre: éléphants, buffles, antilopes, gorilles et singes non encore effrayés par l’homme. A l'entrée de la rivière vous attendra peut-être une famille d’hippopotame, sinon en remontant lecours d’eau devenu de plus en plus étroit, vous croiserez de timides lamantins ou furtifs crocodiles venus s’abreuver ou s’aventurer à traverser la rivière à la nage. Toujours en grande quantité d’innombrables espèces d’oiseaux fuseront de toute part : anhinga d’Afrique, ombrette, jacana, héron, aigrette, martin-pêcheur, vautour palmiste. Au terme de cette remontée, une halte d’une heure environ pour le déjeuner puis un repos salutaire. Avant de regagner votre embarcation, une petite marche en forêt vous permettra de vous plonger dans les bruits toujours mystérieux et sauvages de l’Afrique, où vous emprunterez un ancien sentier forestier devenu aujourd’hui un passage fréquenté par de nombreux animaux.",
+        "safariThreeListTitle": "DÉROULEMENT DU SAFARI A AKAKA",
+        "safariThreeListOne": "Tôt le matin, départ en 4x4 du lodge jusqu’au poste de la «Brigade de Faune» situé en bordure de la Lagune d’Iguela, face au Parc National de Loango (40 mn)",
+        "safariThreeListThree": "Puis trajet en bateau jusqu'à Akaka (1 heure environ)",
+        "safariThreeListFour": "Safari-bateau le long des rives d'Akaka",
+        "safariThreeListFive": "Pique-nique en brousse inclus",
+        "safariThreeListSix": "Après le déjeuner, trekking en forêt",
+        "safariThreeListSeven": "Possibilité de faire des marches d’approches pour une meilleure vision animalière",
+        "safariThreeListEight": "Possibilité de bivouaquer surplace en brousse",
+        "safariThreeListNine": "Groupe jusqu’à 8 personnes maximum"
+    }
 }

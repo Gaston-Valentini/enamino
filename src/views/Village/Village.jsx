@@ -5,7 +5,7 @@ import Bungalow from "../../sections/Bungalow/Bungalow";
 import Menu from "../../sections/Menu/Menu";
 import Enviroment from "../../sections/Enviroment/Enviroment";
 
-export default function Village() {
+export default function VillageView() {
     return (
         <section className={style.container}>
             <Header />

@@ -2,7 +2,7 @@ import style from "./App.module.css";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Navbar from "./components/Navbar/Navbar";
 import Village from "./views/Village/Village";
-import Safaris from "./views/Safaris/Safaris";
+import SafarisView from "./views/SafarisView/SafarisView";
 
 export default function App() {
     return (
@@ -11,7 +11,7 @@ export default function App() {
                 <Navbar />
                 <Routes>
                     <Route path="/" element={<Village />} />
-                    <Route path="/safaris" element={<Safaris />} />
+                    <Route path="/safaris" element={<SafarisView />} />
                 </Routes>
             </div>
         </Router>
