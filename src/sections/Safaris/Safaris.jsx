@@ -1,10 +1,12 @@
 import style from "./Safaris.module.css";
 import { useTranslation } from "react-i18next";
+import { GiElephant } from "react-icons/gi";
 import safariOne from "../../assets/images/safari-1.jpg";
 import safariTwo from "../../assets/images/safari-2.jpg";
 import safariThree from "../../assets/images/safari-3.jpg";
 import safariFour from "../../assets/images/safari-4.jpg";
 import safariFive from "../../assets/images/safari-5.jpg";
+import safariSix from "../../assets/images/safari-6.jpg";
 
 export default function Safaris() {
     const [t, i18n] = useTranslation("global");
@@ -38,6 +40,11 @@ export default function Safaris() {
                             </ol>
                         </div>
                     </div>
+                </div>
+                <div className={style.safariDivisor}>
+                    <hr />
+                    <GiElephant />
+                    <hr />
                 </div>
                 <div className={style.safari}>
                     <div className={style.safariImages}>
@@ -76,6 +83,11 @@ export default function Safaris() {
                         </div>
                     </div>
                 </div>
+                <div className={style.safariDivisor}>
+                    <hr />
+                    <GiElephant />
+                    <hr />
+                </div>
                 <div className={style.safari}>
                     <div className={style.safariImages}>
                         <div className={style.safariImagesImage}>
@@ -103,6 +115,36 @@ export default function Safaris() {
                                 <li className={style.safariDataListListElement}>{t("safaris.safariThreeListSix")}</li>
                                 <li className={style.safariDataListListElement}>{t("safaris.safariThreeListSeven")}</li>
                                 <li className={style.safariDataListListElement}>{t("safaris.safariThreeListEight")}</li>
+                            </ol>
+                        </div>
+                    </div>
+                </div>
+                <div className={style.safariDivisor}>
+                    <hr />
+                    <GiElephant />
+                    <hr />
+                </div>
+                <div className={style.safari}>
+                    <div className={style.safariImages}>
+                        <div className={style.safariImagesImage}>
+                            <img src={safariSix} />
+                        </div>
+                    </div>
+                    <div className={style.safariData}>
+                        <p className={style.safariDataTitle}>{t("safaris.safariFourTitle")}</p>
+                        <div className={style.safariDataInfo}>
+                            <div className={style.safariDataInfoSection}>
+                                <p className={style.safariDataInfoSectionTitle}>{t("safaris.safariFourInfoTitleOne")}</p>
+                                <p className={style.safariDataInfoSectionText}>{t("safaris.safariFourInfoTextOne")}</p>
+                            </div>
+                        </div>
+                        <div className={style.safariDataList}>
+                            <p className={style.safariDataListTitle}>{t("safaris.safariFourListTitle")}</p>
+                            <ol className={style.safariDataListList}>
+                                <li className={style.safariDataListListElement}>{t("safaris.safariFourListOne")}</li>
+                                <li className={style.safariDataListListElement}>{t("safaris.safariFourListTwo")}</li>
+                                <li className={style.safariDataListListElement}>{t("safaris.safariFourListThree")}</li>
+                                <li className={style.safariDataListListElement}>{t("safaris.safariFourListFour")}</li>
                             </ol>
                         </div>
                     </div>

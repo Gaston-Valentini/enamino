@@ -72,7 +72,7 @@ export default function Navbar() {
                     </div>
                 )}
                 <select className={style.languageSelector} onChange={(e) => handleLanguage(e)}>
-                    <option value="" disabled selected hidden>
+                    <option value="" hidden>
                         {t("navbar.selectLanguage")}
                     </option>
                     <option value="fr">{t("navbar.france")}</option>

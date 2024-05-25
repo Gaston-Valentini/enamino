@@ -98,3 +98,19 @@
     font-weight: 800;
     color: var(--green);
 }
+
+.safariDivisor {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+}
+
+.safariDivisor hr {
+    width: 100%;
+    border: 1px solid var(--brown);
+}
+
+.safariDivisor svg {
+    font-size: 70px;
+}
