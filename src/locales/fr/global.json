@@ -125,5 +125,18 @@
         "safariFourListThree": "Retour à Enamino par la plage",
         "safariFourListFour": "Sur responsabilité des parents pour les enfants mineurs"
     },
-    "gabonHeader": "Le Gabon"
+    "gabonHeader": "Le Gabon",
+    "gabon": {
+        "title": "Le Gabon",
+        "textOne": "Politiquement stable et relativement prospère, le Gabon est le moins densément peuplé d’Afrique Centrale. Situé dans le massif forestier du Bassin du Congo, il constitue selon les experts le 2ème poumon de la planète après l’Amazonie. Sous le couvert d’un épais manteau de forêt insoumise peu propice au peuplement humain, le Gabon abrite une faune et une flore d’une exceptionnelle diversité. Le pays est couvert à 85% de forêts pluviales les plus préservées du monde dont certaines encore inviolées, réputées pour être les plus riches d’Afrique.",
+        "textTwo": "L’Afrique centrale en général et le Gabon en particulier, possède une biodiversité parmi les plus riches du monde représentant 75% des espèces présentes sur le globe. On y rencontre:",
+        "listOne": "Environ 8000 espèces végétales (orchidée, bégonias, essence de bois exotique) avec plus de 22 % de taux d'endémisme.",
+        "listTwo": "Le Gabon recèle en outre 150 espèces de mammifères dont 19 espèces de primates comprenant le gorille (population estimée à 35 000 individus) , le chimpanzé (environ 64 000) et le mandrill.",
+        "listThree": "623 espèces d'oiseaux dont plusieurs sont endémiques.",
+        "listFour": "17 espèces de cétacés ont pu être observées dans le Golfe de Guinée dont l’orque et la baleine à bosse qui vient y mettre bas et se reproduire de juin à septembre.",
+        "listFive": "Avec la Guyane le Gabon représente le 1er site mondial de reproduction de la tortue luth. Sur les 6 espèces de tortues rencontrées dans l’Océan Atlantique, 5 fréquentent le golf de Guinée : la tortue luth, la tortue verte, la tortue imbriquée, la tortue olivâtre, la tortue caouanne.",
+        "listSix": "Parmi les espèces les plus remarquables on peut encore citer : l’éléphant de forêt (population estimée à 60 000 individus soit 60% des éléphants d’Afrique), le buffle de forêt et le lamantin.",
+        "listSeven": "Des espèces animales menacées ou peu représentées à l’échelle du continent africain comptent toujours au Gabon des populations importantes (Cf. nos rubriques : « Animaux du Gabon » et « Oiseaux du Gabon »)",
+        "textThree": "« Pays béni des Dieux », le Gabon possède aussi un immense potentiel en matières premières. Le sol et le sous-sol gabonais regorgent de ressources considérables comme le bois, le pétrole, l’or, le manganèse, l’uranium ou d’autres très rares comme le niobium.Certaines ressources géologiques ont été identifiées mais sont encore inutilisées, citons: la barytine, le fer, la potasse, le phosphate, le soufre, le marbre, le granit, le talc et de nombreux métaux non ferreux (plomb, zinc, cuivre, etc)."
+    }
 }

@@ -1,0 +1,59 @@
+.container {
+    background-image: url("../../assets/images/gabon.jpg");
+    background-size: cover;
+    background-position: center;
+    box-shadow: 0 0 10px black;
+}
+
+.overlay {
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.content {
+    max-width: 1000px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.title {
+    font-size: 50px;
+    font-weight: 800;
+    color: var(--green);
+}
+
+.data {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.dataText {
+    color: var(--white);
+}
+
+.dataList {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.dataListElement {
+    color: var(--green);
+}
+
+.dataListElement::marker {
+    color: var(--white);
+}
+
+@media (max-width: 991px) {
+    .overlay {
+        padding: 50px 20px;
+    }
+    .title {
+        font-size: 40px;
+    }
+}

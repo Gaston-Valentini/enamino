@@ -1,4 +1,4 @@
-import style from "./Village.module.css";
+import style from "./VillageView.module.css";
 import Header from "../../sections/Header/Header";
 import Camp from "../../sections/Camp/Camp";
 import Bungalow from "../../sections/Bungalow/Bungalow";
