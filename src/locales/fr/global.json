@@ -138,5 +138,25 @@
         "listSix": "Parmi les espèces les plus remarquables on peut encore citer : l’éléphant de forêt (population estimée à 60 000 individus soit 60% des éléphants d’Afrique), le buffle de forêt et le lamantin.",
         "listSeven": "Des espèces animales menacées ou peu représentées à l’échelle du continent africain comptent toujours au Gabon des populations importantes (Cf. nos rubriques : « Animaux du Gabon » et « Oiseaux du Gabon »)",
         "textThree": "« Pays béni des Dieux », le Gabon possède aussi un immense potentiel en matières premières. Le sol et le sous-sol gabonais regorgent de ressources considérables comme le bois, le pétrole, l’or, le manganèse, l’uranium ou d’autres très rares comme le niobium.Certaines ressources géologiques ont été identifiées mais sont encore inutilisées, citons: la barytine, le fer, la potasse, le phosphate, le soufre, le marbre, le granit, le talc et de nombreux métaux non ferreux (plomb, zinc, cuivre, etc)."
+    },
+    "parks": {
+        "title": "Les 13 Parcs Nationaux du Gabon",
+        "tableHeadOne": "PARC NATIONAUX",
+        "tableHeadTwo": "PROVINCE",
+        "tableHeadThree": "SUPERFICIE",
+        "tableHeadFour": "TYPE DE PAYSAGE",
+        "bodyOneFour": "Mangrove",
+        "bodyTwoFour": "Montagne",
+        "bodyThreeFour": "Forêt Équatoriale",
+        "bodyFourFour": "Côte Sableuse",
+        "bodyFiveFour": "Forêt Et Savane",
+        "bodySixFour": "Côte Sableuse",
+        "bodySevenFour": "Forêt Équatoriale",
+        "bodyEightFour": "Montagne",
+        "bodyNineFour": "Forêt Équatoriale",
+        "bodyTenFour": "Forêt Équatoriale",
+        "bodyElevenFour": "Forêt Équatoriale",
+        "bodyTwelveFour": "Mangrove, Côte Sableuse",
+        "bodyThirteenFour": "Montagne"
     }
 }
