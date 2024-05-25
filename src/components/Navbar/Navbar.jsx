@@ -40,7 +40,7 @@ export default function Navbar() {
                     </Link>
                 </li>
                 <li className={style.linksLink}>
-                    <Link to="/" onClick={handleMenu}>
+                    <Link to="/gabon" onClick={handleMenu}>
                         {t("navbar.linkThree")}
                     </Link>
                 </li>
