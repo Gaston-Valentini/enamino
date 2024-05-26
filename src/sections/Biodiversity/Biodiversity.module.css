@@ -35,3 +35,9 @@
     text-align: center;
     color: var(--white);
 }
+
+@media (max-width: 991px) {
+    .overlay {
+        padding: 50px 20px;
+    }
+}
