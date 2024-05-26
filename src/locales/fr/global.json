@@ -158,5 +158,10 @@
         "bodyElevenFour": "Forêt Équatoriale",
         "bodyTwelveFour": "Mangrove, Côte Sableuse",
         "bodyThirteenFour": "Montagne"
+    },
+    "biodiversity": {
+        "title": "Le Gabon protecteur de la biodiversité",
+        "textOne": "En vue de participer à l’effort mondial de préservation de l’environnement et de la lutte contre le réchauffement climatique, le Gabon a annoncé en 2002 à l'occasion du Sommet de la Terre (Sommet mondial du développement durable organisé par les Nations unies à Johannesburg), la création d'un réseau de 13 Parcs Nationaux. 11% du territoire gabonais est désormais classé Parc National. Il devient après le Costa-Rica, le pays qui protège la plus grande surface de son territoire.",
+        "textTwo": "« Il s’agit là d’un acte de portée mondiale qui impliquera, à n’en point douter, des sacrifices à court et moyen termes, à la mesure toutefois de nos ambitions, qui est de laisser aux générations futures, ces merveilles de la nature », avait annoncé le feu Président de la République Gabonaise El Hadj Omar Bongo Ondimba."
     }
 }
