@@ -235,5 +235,36 @@
         "historicalFour": "Current President of the Republic: his son, Ali Ben Bongo Ondimba since August 30, 2009",
         "historicalFive": "National Day on August 17"
     },
-    "travelersHeader": "Conseils aux voyagerus"
+    "travelersHeader": "Conseils aux voyagerus",
+    "bag": {
+        "title": "DANS VOTRE VALISE",
+        "subtitle": "Sous l'équateur le temps change rapidement et le soleil peut laisser place à la pluie en moins d'une heure! Nous vous conseillons donc de prévoir dans votre valise...",
+        "clothingTitle": "VÊTEMENTS",
+        "clothingOne": "Vêtements de couleurs non voyantes pour les safaris ou trekking en forêt. Préférez le gris, vert, kaki, beige, marron, noir. Evitez rouge, jaune, orange, blanc beaucoup trop voyant!",
+        "clothingTwo": "Un bon imperméable (+ éventuellement le pantalon imperméable)",
+        "clothingThree": "Vêtements légers",
+        "clothingFour": "Chemises ou T-shirt à manches longues (pour soirées fraîches et insectes)",
+        "clothingFive": "Maillot",
+        "clothingSix": "Polaire pour la saison sèche en bord de plage (du 15 juin au 15 septembre)",
+        "shoesTitle": "CHAUSSURES",
+        "shoesOne": "Chaussures de marche",
+        "shoesTwo": "Chaussures de rechange (au cas où la 1ère serait mouillée)",
+        "shoesThree": "Sandales en plastique",
+        "accessoriesTitle": "ACCESSOIRES",
+        "accessoriesOne": "Casquette",
+        "accessoriesTwo": "Lunette de soleil",
+        "accessoriesThree": "Serviette de plage",
+        "accessoriesFour": "Sac à dos (pas de couleurs vives pour le pas être visible des animaux!)",
+        "accessoriesFive": "Torche ou lampe frontale (+ piles) : au moins une par personne",
+        "accessoriesSix": "Votre matériel photo et/ou vidéo",
+        "accessoriesSeven": "Sacs étanches ou pochettes plastiques à glissière type « sac congélation » pour protéger de l’humidité votre matériel photo et/ou vidéo",
+        "accessoriesEight": "Éventuellement, billes de silicate à placer dans vos sacs étanches pour absorber l’humidité",
+        "healthTitle": "SANTE",
+        "healthOne": "Votre traitement antipaludéen",
+        "healthTwo": "Si vous suivez un traitement médical, prévoyez votre ordonnance et votre traitement en quantité suffisante  pour toute la durée de votre séjour",
+        "healthThree": "Votre pharmacie : anti-diarrhéique, anti-nauséeux, pommade contre les piqûres d’insectes, pommade antifongique, biafine",
+        "healthFour": "Répulsif anti-insectes",
+        "healthFive": "Crème solaire",
+        "healthSix": "Éventuellement, gel antiseptique pour les mains"
+    }
 }

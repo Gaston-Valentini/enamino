@@ -1,0 +1,85 @@
+.container {
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 50px;
+    background-color: var(--white);
+}
+
+.heading {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+.headingTitle {
+    text-align: center;
+    font-family: var(--secondary);
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.headingSubtitle {
+    text-align: center;
+    max-width: 1000px;
+}
+
+.data {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    max-width: 1000px;
+}
+
+.dataSection {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.dataSectionTitle {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.dataSectionTitleIcon {
+    height: 50px;
+    width: 50px;
+    padding: 10px;
+    background-color: white;
+    border-radius: 50%;
+    border: 2px solid var(--brown);
+}
+
+.dataSectionTitleIcon img {
+    height: 100%;
+    width: 100%;
+}
+
+.dataSectionTitleText {
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.dataSectionList {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.dataSectionListElement::marker {
+    color: var(--green);
+}
+
+@media (max-width: 991px) {
+    .container {
+        padding: 50px 20px;
+    }
+    .dataSectionTitleIcon {
+        height: 30px;
+        width: 30px;
+    }
+}

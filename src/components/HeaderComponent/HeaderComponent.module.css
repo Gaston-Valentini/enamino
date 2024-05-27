@@ -11,6 +11,7 @@
 }
 
 .text {
+    text-align: center;
     font-size: 50px;
     font-family: var(--secondary);
     color: var(--white);
