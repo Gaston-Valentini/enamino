@@ -4,6 +4,7 @@ import Navbar from "./components/Navbar/Navbar";
 import VillageView from "./views/VillageView/VillageView";
 import SafarisView from "./views/SafarisView/SafarisView";
 import GabonView from "./views/GabonView/GabonView";
+import TravelersView from "./views/TravelersView/TravelersView";
 
 export default function App() {
     return (
@@ -14,6 +15,7 @@ export default function App() {
                     <Route path="/" element={<VillageView />} />
                     <Route path="/safaris" element={<SafarisView />} />
                     <Route path="/gabon" element={<GabonView />} />
+                    <Route path="/travelers" element={<TravelersView />} />
                 </Routes>
             </div>
         </Router>

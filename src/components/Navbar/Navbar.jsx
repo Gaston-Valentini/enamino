@@ -45,7 +45,7 @@ export default function Navbar() {
                     </Link>
                 </li>
                 <li className={style.linksLink}>
-                    <Link to="/" onClick={handleMenu}>
+                    <Link to="/travelers" onClick={handleMenu}>
                         {t("navbar.linkFour")}
                     </Link>
                 </li>
