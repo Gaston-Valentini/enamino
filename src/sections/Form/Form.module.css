@@ -1,0 +1,102 @@
+.container {
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 50px;
+    background-color: var(--white);
+}
+
+.text {
+    text-align: center;
+    font-family: var(--secondary);
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.form {
+    width: 100%;
+    max-width: 600px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    background-color: var(--lightGreen);
+    border: 2px solid var(--brown);
+}
+
+.formSection {
+    width: 100%;
+    display: flex;
+    border: 2px solid var(--brown);
+}
+
+.formSectionIcon {
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    background-color: var(--brown);
+}
+
+.formSectionIcon svg {
+    font-size: 20px;
+}
+
+.formSectionIcon path {
+    color: var(--green);
+}
+
+.formSectionInput {
+    flex-grow: 1;
+    padding: 0 10px;
+    color: var(--brown);
+    border: none;
+    transition: 0.3s;
+}
+
+.formSection textarea {
+    padding: 10px;
+    min-height: 100px;
+}
+
+.formSectionInput:focus,
+.formSection textarea:focus {
+    background-color: var(--white);
+    outline: none;
+}
+.formSectionInput::placeholder,
+.formSection textarea::placeholder {
+    color: var(--brown);
+}
+
+.formSubmit {
+    padding: 10px;
+    font-weight: 700;
+    color: var(--brown);
+    background: var(--white);
+    border: 2px solid var(--brown);
+    transition: 0.3s;
+}
+
+.formSubmit:hover {
+    cursor: pointer;
+    background-color: var(--brown);
+    color: var(--green);
+}
+
+.formSubmit:disabled {
+    opacity: 0.5;
+}
+
+.formSubmit:disabled:hover {
+    cursor: not-allowed;
+    color: var(--brown);
+    background-color: var(--white);
+}
+
+@media (max-width: 991px) {
+    .container {
+        padding: 50px 40px;
+    }
+}
