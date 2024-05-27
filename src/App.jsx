@@ -5,6 +5,7 @@ import VillageView from "./views/VillageView/VillageView";
 import SafarisView from "./views/SafarisView/SafarisView";
 import GabonView from "./views/GabonView/GabonView";
 import TravelersView from "./views/TravelersView/TravelersView";
+import ContactView from "./views/ContactView/ContactView";
 
 export default function App() {
     return (
@@ -16,6 +17,7 @@ export default function App() {
                     <Route path="/safaris" element={<SafarisView />} />
                     <Route path="/gabon" element={<GabonView />} />
                     <Route path="/travelers" element={<TravelersView />} />
+                    <Route path="/contact" element={<ContactView />} />
                 </Routes>
             </div>
         </Router>
