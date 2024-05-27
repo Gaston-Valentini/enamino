@@ -266,5 +266,9 @@
         "healthFour": "Répulsif anti-insectes",
         "healthFive": "Crème solaire",
         "healthSix": "Éventuellement, gel antiseptique pour les mains"
+    },
+    "donations": {
+        "title": "Dons à la Mission Sainte Anne et à la population du Gabon",
+        "text": "Nous acceptons des dons de vêtements et de chaussures pour adultes et enfants de tous âges, à condition qu'ils soient en bon état et propres. Il est important de noter que nous n'acceptons pas les médicaments périmés. Nous avons également besoin de fournitures pour une pharmacie de premiers secours. Les jouets et jeux doivent être complets et en bon état. De plus, nous recevons des fournitures scolaires, des livres et d'autres objets ou fournitures, à condition qu'ils soient en bon état. Votre collaboration est essentielle pour soutenir ceux qui en ont le plus besoin."
     }
 }

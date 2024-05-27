@@ -57,6 +57,7 @@
 .dataSectionTitleIcon img {
     height: 100%;
     width: 100%;
+    filter: invert(20%) sepia(100%) saturate(200%) hue-rotate(-20deg);
 }
 
 .dataSectionTitleText {
