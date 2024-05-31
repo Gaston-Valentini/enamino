@@ -1,6 +1,6 @@
 import style from "./Header.module.css";
 import { useTranslation } from "react-i18next";
-import logo from "../../assets/images/logo.png";
+import logo from "../../assets/images/logo-complete.png";
 
 export default function Header() {
     const [t, i18n] = useTranslation("global");

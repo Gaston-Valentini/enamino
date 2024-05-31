@@ -7,3 +7,32 @@
     --primary: "Raleway", sans-serif;
     --secondary: "Kaushan Script", cursive;
 }
+
+::-webkit-scrollbar {
+    width: 5px;
+    height: 5px;
+}
+
+::-webkit-scrollbar-thumb {
+    border-top: 60px solid var(--white);
+    background: var(--brown);
+}
+
+::-webkit-scrollbar-thumb:hover {
+    cursor: grab;
+    background: var(--green);
+}
+
+::-webkit-scrollbar-thumb:active {
+    cursor: grabbing;
+}
+
+::-webkit-scrollbar-track {
+    background: var(--white);
+}
+
+@media (max-width: 1024px) {
+    ::-webkit-scrollbar-thumb {
+        border-top: 50px solid var(--white);
+    }
+}
