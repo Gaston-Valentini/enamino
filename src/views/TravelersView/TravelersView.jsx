@@ -4,6 +4,7 @@ import HeaderComponent from "../../components/HeaderComponent/HeaderComponent";
 import headerImage from "../../assets/images/travelers-header.jpg";
 import Bag from "../../sections/Bag/Bag";
 import Donations from "../../sections/Donations/Donations";
+import Formalities from "../../sections/Formalities/Formalities";
 
 export default function TravelersView() {
     const [t, i18n] = useTranslation("global");
@@ -13,6 +14,7 @@ export default function TravelersView() {
             <HeaderComponent image={headerImage} text={t("travelersHeader")} />
             <Bag />
             <Donations />
+            <Formalities />
         </section>
     );
 }

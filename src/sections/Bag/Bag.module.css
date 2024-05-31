@@ -75,9 +75,13 @@
     color: var(--green);
 }
 
-@media (max-width: 991px) {
+@media (max-width: 1024px) {
     .container {
         padding: 50px 20px;
+        gap: 20px;
+    }
+    .headingTitle {
+        font-size: 20px;
     }
     .dataSectionTitleIcon {
         height: 30px;

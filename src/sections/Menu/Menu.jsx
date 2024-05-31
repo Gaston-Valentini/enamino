@@ -10,9 +10,9 @@ export default function Menu() {
 
     return (
         <section className={style.container}>
-            <div className={style.titles}>
-                <p className={style.titlesTitle}>{t("menu.title")}</p>
-                <p className={style.titlesSubtitle}>{t("menu.subtitle")}</p>
+            <div className={style.heading}>
+                <p className={style.headingTitle}>{t("menu.title")}</p>
+                <p className={style.headingText}>{t("menu.subtitle")}</p>
             </div>
             <div className={style.data}>
                 <ul className={style.dataList}>

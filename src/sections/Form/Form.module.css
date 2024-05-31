@@ -95,8 +95,9 @@
     background-color: var(--white);
 }
 
-@media (max-width: 991px) {
+@media (max-width: 1024px) {
     .container {
         padding: 50px 40px;
+        gap: 20px;
     }
 }

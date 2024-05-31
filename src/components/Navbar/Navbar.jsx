@@ -19,6 +19,7 @@ export default function Navbar() {
     };
 
     const handleMenu = () => {
+        window.scrollTo(0, 0);
         setMenuMobile(!menuMobile);
     };
 

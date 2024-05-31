@@ -119,9 +119,9 @@ export default function Bungalow() {
 
     return (
         <section className={style.container}>
-            <div className={style.titles}>
-                <p className={style.titlesTitle}>{t("bungalow.title")}</p>
-                <p className={style.titlesSubtitle}>{t("bungalow.subtitle")}</p>
+            <div className={style.heading}>
+                <p className={style.headingTitle}>{t("bungalow.title")}</p>
+                <p className={style.headingText}>{t("bungalow.subtitle")}</p>
             </div>
             <div className={style.data}>
                 <ul className={style.dataList}>
