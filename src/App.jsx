@@ -6,6 +6,7 @@ import SafarisView from "./views/SafarisView/SafarisView";
 import GabonView from "./views/GabonView/GabonView";
 import TravelersView from "./views/TravelersView/TravelersView";
 import ContactView from "./views/ContactView/ContactView";
+import Footer from "./components/Footer/Footer";
 
 export default function App() {
     return (
@@ -19,6 +20,7 @@ export default function App() {
                     <Route path="/travelers" element={<TravelersView />} />
                     <Route path="/contact" element={<ContactView />} />
                 </Routes>
+                <Footer />
             </div>
         </Router>
     );

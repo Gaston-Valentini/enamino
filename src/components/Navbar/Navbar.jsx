@@ -1,11 +1,11 @@
 import style from "./Navbar.module.css";
+import { useTranslation } from "react-i18next";
 import logo from "../../assets/images/logo.png";
 import { FaSafari } from "react-icons/fa6";
 import { Link } from "react-router-dom";
 import franceFlag from "../../assets/images/flag-france.jpg";
 import spainFlag from "../../assets/images/flag-spain.jpg";
 import usaFlag from "../../assets/images/flag-usa.jpg";
-import { useTranslation } from "react-i18next";
 import { useState } from "react";
 
 export default function Navbar() {

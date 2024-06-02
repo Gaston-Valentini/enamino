@@ -319,5 +319,8 @@
         "email": "Mail...",
         "message": "Message...",
         "send": "Envoyer"
+    },
+    "footer": {
+        "developer": "Développé par Gastón Valentini"
     }
 }
