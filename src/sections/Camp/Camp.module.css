@@ -1,6 +1,7 @@
 .container {
     display: grid;
     grid-template-columns: 1fr 1fr;
+    grid-template-rows: 600px;
     box-shadow: 0 0 10px black;
 }
 
@@ -44,17 +45,6 @@
     background-color: var(--brown);
 }
 
-.image {
-    max-height: 550px;
-    box-shadow: -2px -2px 10px var(--shadow);
-}
-
-.image img {
-    height: 100%;
-    width: 100%;
-    object-fit: cover;
-}
-
 @media (max-width: 1024px) {
     .data {
         padding: 50px 20px;
@@ -67,7 +57,9 @@
 @media (max-width: 768px) {
     .container {
         grid-template-columns: 1fr;
+        grid-template-rows: none;
     }
+
     .dataInfoText {
         max-width: none;
     }

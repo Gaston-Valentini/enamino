@@ -5,6 +5,7 @@
     align-items: center;
     gap: 50px;
     background-color: var(--white);
+    box-shadow: 0 0 10px black;
 }
 
 .title {
@@ -24,24 +25,6 @@
     display: grid;
     grid-template-columns: 2fr 3fr;
     gap: 20px;
-}
-
-.safariImages {
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
-}
-
-.safariImagesImage {
-    width: 100%;
-    height: 100%;
-    box-shadow: -2px 2px 5px var(--shadow);
-}
-
-.safariImagesImage img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
 }
 
 .safariData {

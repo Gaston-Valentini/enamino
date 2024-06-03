@@ -1,6 +1,8 @@
 import style from "./Camp.module.css";
 import { useTranslation } from "react-i18next";
-import image from "../../assets/images/camp.jpg";
+import Carousel from "../../components/Carousel/Carousel";
+import image1 from "../../assets/images/camp.jpg";
+import image2 from "../../assets/images/header.jpg";
 
 export default function Camp() {
     const [t, i18n] = useTranslation("global");
@@ -14,9 +16,14 @@ export default function Camp() {
                     <button className={style.dataInfoButton}>{t("camp.button")}</button>
                 </div>
             </div>
-            <div className={style.image}>
-                <img src={image} />
-            </div>
+            <Carousel>
+                <div>
+                    <img src={image1} />
+                </div>
+                <div>
+                    <img src={image2} />
+                </div>
+            </Carousel>
         </section>
     );
 }

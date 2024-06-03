@@ -6,7 +6,7 @@
         "linkOne": "Notre Eco-Village",
         "linkTwo": "Nos Safaris",
         "linkThree": "Le Gabon",
-        "linkFour": "Conselis aux Voyageurs",
+        "linkFour": "Conseils aux Voyageurs",
         "linkFive": "Contact",
 
         "selectLanguage": "Langue",
@@ -77,10 +77,9 @@
     "safarisHeader": "Nos Safaris",
     "safaris": {
         "title": "NOS DIFFÉRENTS SAFARIS A LOANGO",
-
         "safariOneTitle": "SAFARI-BATEAU SUR LE PN LOANGO",
         "safariOneInfoTitleOne": "Pour les familles... ",
-        "safariOneInfoTextOne": "Tour de lagune en bateau le long des berges du Parc National de Loango Quelques silencieuses approches à pied vous permettront d’observer au mieux les animaux situés prés de la rive",
+        "safariOneInfoTextOne": "Tour de lagune en bateau le long des berges du Parc National de Loango. Quelques silencieuses approches à pied vous permettront d’observer au mieux les animaux situés prés de la rive.",
         "safariOneListTitle": "DÉROULEMENT DU SAFARI",
         "safariOneListOne": "Départ du lodge le matin en 4x4 jusqu’au poste de la «Brigade de Faune» situé en bordure de la Lagune d’Iguela, face au Parc National de Loango (30 mn)",
         "safariOneListTwo": "Départ en bateau pour un parcours autour du Parc National de Loango à la recherche d'animaux",

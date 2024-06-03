@@ -1,5 +1,6 @@
 import style from "./Safaris.module.css";
 import { useTranslation } from "react-i18next";
+import Carousel from "../../components/Carousel/Carousel";
 import { GiElephant } from "react-icons/gi";
 import safariOne from "../../assets/images/safari-1.jpg";
 import safariTwo from "../../assets/images/safari-2.jpg";
@@ -16,11 +17,14 @@ export default function Safaris() {
             <p className={style.title}>{t("safaris.title")}</p>
             <div className={style.safaris}>
                 <div className={style.safari}>
-                    <div className={style.safariImages}>
-                        <div className={style.safariImagesImage}>
+                    <Carousel>
+                        <div>
                             <img src={safariOne} />
                         </div>
-                    </div>
+                        <div>
+                            <img src={safariTwo} />
+                        </div>
+                    </Carousel>
                     <div className={style.safariData}>
                         <p className={style.safariDataTitle}>{t("safaris.safariOneTitle")}</p>
                         <div className={style.safariDataInfo}>
@@ -47,14 +51,14 @@ export default function Safaris() {
                     <hr />
                 </div>
                 <div className={style.safari}>
-                    <div className={style.safariImages}>
-                        <div className={style.safariImagesImage}>
+                    <Carousel>
+                        <div>
+                            <img src={safariOne} />
+                        </div>
+                        <div>
                             <img src={safariTwo} />
                         </div>
-                        <div className={style.safariImagesImage}>
-                            <img src={safariThree} />
-                        </div>
-                    </div>
+                    </Carousel>
                     <div className={style.safariData}>
                         <p className={style.safariDataTitle}>{t("safaris.safariTwoTitle")}</p>
                         <p className={style.safariDataOptions}>{t("safaris.safariTwoOptions")}</p>
@@ -89,14 +93,14 @@ export default function Safaris() {
                     <hr />
                 </div>
                 <div className={style.safari}>
-                    <div className={style.safariImages}>
-                        <div className={style.safariImagesImage}>
-                            <img src={safariFour} />
+                    <Carousel>
+                        <div>
+                            <img src={safariOne} />
                         </div>
-                        <div className={style.safariImagesImage}>
-                            <img src={safariFive} />
+                        <div>
+                            <img src={safariTwo} />
                         </div>
-                    </div>
+                    </Carousel>
                     <div className={style.safariData}>
                         <p className={style.safariDataTitle}>{t("safaris.safariThreeTitle")}</p>
                         <div className={style.safariDataInfo}>
@@ -125,11 +129,14 @@ export default function Safaris() {
                     <hr />
                 </div>
                 <div className={style.safari}>
-                    <div className={style.safariImages}>
-                        <div className={style.safariImagesImage}>
-                            <img src={safariSix} />
+                    <Carousel>
+                        <div>
+                            <img src={safariOne} />
                         </div>
-                    </div>
+                        <div>
+                            <img src={safariTwo} />
+                        </div>
+                    </Carousel>
                     <div className={style.safariData}>
                         <p className={style.safariDataTitle}>{t("safaris.safariFourTitle")}</p>
                         <div className={style.safariDataInfo}>
