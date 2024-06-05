@@ -11,7 +11,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: var(--lightGreen);
+    background-color: var(--brown);
 }
 
 .dataInfo {
@@ -24,25 +24,28 @@
     font-size: 30px;
     font-weight: 900;
     font-family: var(--secondary);
+    color: var(--green);
 }
 
 .dataInfoText {
     max-width: 500px;
+    color: var(--white);
 }
 
 .dataInfoButton {
     align-self: flex-start;
     padding: 10px;
     font-weight: 600;
-    background-color: var(--white);
-    border: 2px solid var(--brown);
+    color: var(--white);
+    background-color: var(--brown);
+    border: 2px solid var(--green);
     transition: 0.3s;
 }
 
 .dataInfoButton:hover {
     cursor: pointer;
-    color: var(--green);
-    background-color: var(--brown);
+    color: var(--brown);
+    background-color: var(--green);
 }
 
 @media (max-width: 1024px) {

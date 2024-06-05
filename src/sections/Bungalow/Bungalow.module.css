@@ -58,7 +58,7 @@
     max-width: 1200px;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    grid-template-rows: 250px 250px;
+    grid-template-rows: 250px;
     gap: 10px;
 }
 
@@ -120,8 +120,9 @@
 .text {
     max-width: 1000px;
     text-align: center;
-    font-style: italic;
-    font-weight: 900;
+    font-family: var(--secondary);
+    font-style: 20px;
+    font-weight: 800;
     color: var(--green);
 }
 

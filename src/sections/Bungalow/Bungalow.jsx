@@ -144,22 +144,13 @@ export default function Bungalow() {
             {innerWidth > 767 ? (
                 <div className={style.images}>
                     <div className={style.imagesImage}>
-                        <img src={bungalowOne} />
-                    </div>
-                    <div className={style.imagesImage}>
                         <img src={BungalowTwo} />
                     </div>
                     <div className={style.imagesImage}>
+                        <img src={bungalowOne} />
+                    </div>
+                    <div className={style.imagesImage}>
                         <img src={BungalowThree} />
-                    </div>
-                    <div className={style.imagesImage}>
-                        <img src={bungalowFour} />
-                    </div>
-                    <div className={style.imagesImage}>
-                        <img src={BungalowFive} />
-                    </div>
-                    <div className={style.imagesImage}>
-                        <img src={BungalowSix} />
                     </div>
                 </div>
             ) : (
