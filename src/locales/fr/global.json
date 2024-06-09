@@ -16,7 +16,7 @@
     },
     "camp": {
         "title": "NOTRE CAMP ÉCO-TOURISTIQUE",
-        "text": "Pour une immersion totale dans la vie sauvage, confortable camp de brousse de petite capacité, afin de vous faire bénéficier d’instants privilégiés au plus proche de la nature. Situé sur une falaise rocheuse peu élevée en bordure d’une longue plage déserte, l’Eco-village d’Enamino est composé d’une paillote centrale « Restaurant-Bar-Réception », d'un bungalow avec 3 chambres individuelles de 2 couchages chacune, ainsi que d'un bungalow familial de 4 à 5 couchages. Construit dans le respect total de l’environnement, notre éco-lodge fonctionne à l’énergie solaire, à la lampe à pétrole et ne dispose qu’occasionnellement d’un générateur. Pour un impact minimum sur la nature, récupération des eaux de pluie et traitement des déchets par compostage et brûlage.",
+        "text": "Pour une immersion totale dans la vie sauvage, confortable camp de brousse volontairement de petite capacité, afin de vous faire bénéficier d’instants privilégiés au plus proche de la nature. Situé sur une falaise rocheuse peu élevée en bordure d’une longue plage déserte, l’Eco-village d’Enamino est composé d’une paillote centrale « Restaurant-Bar-Réception », d'un bungalow avec 3 chambres individuelles de 2 ou 3 couchages chacune, ainsi que d'un bungalow familial de 4 à 5 couchages. Construit dans le respect total de l’environnement, notre éco-lodge fonctionne à l’énergie solaire, à la lampe à pétrole et ne dispose qu’occasionnellement d’un générateur. Pour un impact minimum sur la nature, récupération des eaux de pluie et traitement des déchets par compostage et brûlage.",
         "button": "Contactez-nous"
     },
     "bungalow": {
@@ -52,27 +52,25 @@
     },
     "enviroment": {
         "headingTitle": "NOTRE ENVIRONNEMENT SAUVAGE",
-        "headingText": "Serti entre forêt et océan, le long d’une plage sauvage restée parfaitement intacte, le site d’Enamino vous laisse le choix entre: Sèjour détente en 'Forfait  Libre', et sèjour avec activités en 'Forfait Excursion'.",
+        "headingText": "Serti entre forêt et océan, le long d’une plage sauvage restée parfaitement intacte, le site d’Enamino vous laisse le choix entre: Sèjour détente et sèjour avec activités.",
         "headingButton": "Nos Activitès",
 
-        "cardTitleOne": "Un environnement où...",
-        "cardTextOne": "...une plage entourée d'une forêt luxuriante et d'une végétation caractéristique, ainsi que des animaux tels que des crabes et des coquillages fantômes, des hippopotames, des antilopes sitatunga, des céphalophes, des éléphants de forêt (ou assalas), des gorilles des plaines occidentales et des chimpanzés des deux côtés des deux lagunes qui entourent Enamino. Plusieurs espèces de tortues marines (luth, verte, olivâtre, caret) viennent pondre leurs œufs sur la plage sauvage d'Enamino d'octobre à mars.",
-        "cardTitleTwo": "Bercé par l'océan..",
-        "cardTextTwo": "...depuis ton hamac, tu pourras distinguer des groupes de dauphins naviguant paisiblement sur les vagues en face du campement et des baleines à bosse venant s'accoupler et mettre bas de juin à septembre dans les eaux chaudes du Gabon, et admirer leurs sauts spectaculaires.",
-        "cardTitleThree": "Tu pourras écouter...",
+        "cardTitleOne": "Un environnement...",
+        "cardTextOne": "Ecrin de végétation privilégié pour la vision animalière et plage ourlée d’une épaisse forêt regorgeant animaux tels que des crabes fantômes, coquillages, hippopotames, antilopes sitatunga, céphalophes, éléphants de forêt (ou assalas), gorilles des plaines occidentales et chimpanzés des deux côtés des lagunes qui entourent Enamino. Plusieurs espèces de tortues marines (luth, verte, olivâtre, caret) viennent pondre sur la plage sauvage d'Enamino d'octobre à mars.",
+        "cardTitleTwo": "Bercé par l'océan...",
+        "cardTextTwo": "...depuis ton hamac, vous pourrez distinguer des groupes de dauphins naviguant paisiblement sur les vagues face au campement ainsi que des baleines à bosse venant s'accoupler et mettre bas de juin à septembre dans les eaux chaudes du Gabon, et admirer leurs sauts spectaculaires.",
+        "cardTitleThree": "Vous pourrez écouter...",
         "cardTextThree": "...les chants caractéristiques du coucal et de l'ibis hagedash, ainsi qu'une multitude d'autres oiseaux facilement observables depuis le campement, tels que des colonies de guêpiers gris-rosés, des bandes de perroquets du Gabon ou Jaco, des pipits à longues pattes, plusieurs espèces de souimangas, des martins-pêcheurs, des calaos, des touracos, des oiseaux marins, des courlis et des pélicans gris.",
-        "cardTitleFour": "Tu pourras également...",
-        "cardTextFour": "...pêcher depuis la plage sauvage d'Enamino, seul ou accompagné d'un guide, en pêche sportive ou en 'Initiation à la pêche traditionnelle', ou même faire du surf ou du kite avec ta planche sur les vagues de l'océan.",
-        "cardTitleFive": "Tu apprécieras...",
-        "cardTextFive": "...plusieurs terrasses naturelles offrant une vue panoramique sur l'océan, rendant ainsi tes apéritifs au coucher du soleil mémorables."
+        "cardTitleFive": "Vous pourrez également...",
+        "cardTextFive": "...pêcher depuis la plage sauvage d'Enamino, seul ou accompagné d'un guide, en pêche sportive ou en 'Initiation à la pêche traditionnelle', ou même faire du surf ou du kite avec votre planche sur les vagues de l'océan.",
+        "cardTitleFour": "Vous apprécierez...",
+        "cardTextFour": "...plusieurs terrasses naturelles offrant une vue panoramique sur l'océan, rendant mémorables vos apéritifs au coucher du soleil."
     },
     "loango": {
         "title": "LE PARC NATIONAL DE LOANGO",
 
-        "blockOne": "Considéré par les spécialistes comme l’UN DES PARCS LES PLUS RICHES D’AFRIQUE CENTRALE, il constitue un véritable réservoir de biodiversité aux biotopes variés : forêt galerie, savane, marécage, mangrove, lagune, plage Le Parc National de Loango s'étend sur une superficie de 1 550 km². Bras de terre s’étirant sur 86 kilomètres situé entre océan et lagunes: au Nord la Lagune d’Iguela (alias Lagune Ngové) et au Sud la Lagune de Sette Cama (alias Lagune Ndogo), à l’Ouest de grands marécages et à l’Est l’Océan Atlantique. Ce parc regroupe les anciennes réserves naturelles d’Iguela et de Sette-Cama et il a la particularité de ne pouvoir être traversé dans sa totalité, qu’à pied.",
-        "blockTwo": "Réputé pour sa GRANDE CONCENTRATION D’ÉLÉPHANTS de forêt ou assalas et ses HIPPOPOTAMES SURFANT sur les vagues. Sur ses plages que borde la forêt, de grands singes, buffles de forêt, potamochères, panthères et tortues marines viennent se retrouver au coucher du soleil, devant le saut spectaculaire des baleines.",
-        "blockThree": "C'est sur la plage de «Petit-Loango» que le biologiste et aventurier Mike Fay arriva au terme de son célèbre « Méga-Transect», expédition scientifique de 2000 miles (3 200 km) à pied au cœur de la jungle du Bassin du Congo, qui dura 456 jours. Emerveillé par la richesse de la faune et de la flore encore intacte qu’il avait traversé, aux paysages inchangés depuis l’aube de l’humanité, il baptisa le pays : « LE DERNIER SANCTUAIRE ÉCOLOGIQUE DE LA PLANÈTE ». En 2002, il convainc la Présidence de la création de 13 Parcs Nationaux.",
-        "blockFour": "Les plus beaux reportages sur le Gabon et le Bassin du Congo ont été filmés durant sept mois sur le Parc National de Loango par l’équipe de Nick Nichols, l’un des meilleurs photographes de la NATIONAL GEOGRAPHIC SOCIETY. « Nulle part ailleurs, vous ne pourrez voir à la fois, des éléphants sur la plage et le ballet des baleines à bosse en mer »"
+        "blockOne": "Considéré par les spécialistes comme l’UN DES PARCS LES PLUS RICHES D’AFRIQUE CENTRALE, il constitue un véritable réservoir de biodiversité aux biotopes variés : forêt galerie, savane, marécage, mangrove, lagune, plage. Le Parc National de Loango s'étend sur une superficie de 1 550 km². Bras de terre s’étirant sur 86 kilomètres situé entre océan et lagunes: au Nord la Lagune d’Iguela (alias Lagune Ngové) et au Sud la Lagune de Sette Cama (alias Lagune Ndogo), à l’Ouest de grands marécages et à l’Est l’Océan Atlantique. Ce parc regroupe les anciennes réserves naturelles d’Iguela et de Sette-Cama et il a la particularité de ne pouvoir être traversé dans sa totalité, qu’à pied.",
+        "blockTwo": "Réputé pour sa GRANDE CONCENTRATION D’ÉLÉPHANTS de forêt ou assalas et ses HIPPOPOTAMES SURFANT sur les vagues. Sur ses plages que borde la forêt, de grands singes, buffles de forêt, potamochères, panthères et tortues marines viennent se retrouver au coucher du soleil, devant le saut spectaculaire des baleines."
     },
     "safarisHeader": "Nos Safaris",
     "safaris": {
@@ -136,7 +134,7 @@
         "listFive": "Avec la Guyane le Gabon représente le 1er site mondial de reproduction de la tortue luth. Sur les 6 espèces de tortues rencontrées dans l’Océan Atlantique, 5 fréquentent le golf de Guinée : la tortue luth, la tortue verte, la tortue imbriquée, la tortue olivâtre, la tortue caouanne.",
         "listSix": "Parmi les espèces les plus remarquables on peut encore citer : l’éléphant de forêt (population estimée à 60 000 individus soit 60% des éléphants d’Afrique), le buffle de forêt et le lamantin.",
         "listSeven": "Des espèces animales menacées ou peu représentées à l’échelle du continent africain comptent toujours au Gabon des populations importantes (Cf. nos rubriques : « Animaux du Gabon » et « Oiseaux du Gabon »)",
-        "textThree": "« Pays béni des Dieux », le Gabon possède aussi un immense potentiel en matières premières. Le sol et le sous-sol gabonais regorgent de ressources considérables comme le bois, le pétrole, l’or, le manganèse, l’uranium ou d’autres très rares comme le niobium.Certaines ressources géologiques ont été identifiées mais sont encore inutilisées, citons: la barytine, le fer, la potasse, le phosphate, le soufre, le marbre, le granit, le talc et de nombreux métaux non ferreux (plomb, zinc, cuivre, etc)."
+        "textThree": "« Pays béni des Dieux », le Gabon possède aussi un immense potentiel en matières premières. Le sol et le sous-sol gabonais regorgent de ressources considérables comme le bois, le pétrole, l’or, le manganèse, l’uranium ou d’autres très rares comme le niobium. Certaines ressources géologiques ont été identifiées mais sont encore inutilisées, citons: la barytine, le fer, la potasse, le phosphate, le soufre, le marbre, le granit, le talc et de nombreux métaux non ferreux (plomb, zinc, cuivre, etc)."
     },
     "parks": {
         "title": "Les 13 Parcs Nationaux du Gabon",
@@ -164,7 +162,7 @@
         "textTwo": "« Il s’agit là d’un acte de portée mondiale qui impliquera, à n’en point douter, des sacrifices à court et moyen termes, à la mesure toutefois de nos ambitions, qui est de laisser aux générations futures, ces merveilles de la nature », avait annoncé le feu Président de la République Gabonaise El Hadj Omar Bongo Ondimba."
     },
     "identification": {
-        "name": "République gabonaise",
+        "name": "République gabonaise ",
         "area": "Area",
         "areaOne": "267 667 km²",
         "capital": "Capital",
@@ -267,7 +265,7 @@
         "healthSix": "Éventuellement, gel antiseptique pour les mains"
     },
     "donations": {
-        "title": "Dons à la Mission Sainte Anne et à la population du Gabon",
+        "title": "Don à la Mission Sainte Anne et à la population du Gabon",
         "text": "Nous acceptons des dons de vêtements et de chaussures pour adultes et enfants de tous âges, à condition qu'ils soient en bon état et propres. Il est important de noter que nous n'acceptons pas les médicaments périmés. Nous avons également besoin de fournitures pour une pharmacie de premiers secours. Les jouets et jeux doivent être complets et en bon état. De plus, nous recevons des fournitures scolaires, des livres et d'autres objets ou fournitures, à condition qu'ils soient en bon état. Votre collaboration est essentielle pour soutenir ceux qui en ont le plus besoin."
     },
     "formailities": {
@@ -279,16 +277,15 @@
         "cardOneElementThree": "Carnet de vaccination international",
         "cardOneElementFour": "Photocopies et originaux de tous vos documents",
         "cardOneElementFive": "Billet d’avion aller-retour",
-        "cardOneElementSix": "Info PCR en date du 17/12/21",
         "cardTwoTitle": "VISAS",
         "cardTwoSubtitle": "Informations importantes pour les visas",
         "cardTwoElementOneTitle": "Ambassade de France au Gabon",
-        "cardTwoElementOneOne": "1 rue du pont-Pirah BP 2125 - Libreville",
-        "cardTwoElementOneTwo": "Tel: +241(0)11797000",
-        "cardTwoElementOneThree": "Mail: amba.libreville-amba@diplomatie.gouv.fr",
-        "cardTwoElementTwoTitle": "Ambassade du Gabon à Paris: 41, rue de la Bienfaisance -75008 PARIS",
+        "cardTwoElementOneOne": "185 rue du pont-Pirah BP 2125 - Libreville",
+        "cardTwoElementOneThree": "Lien ambassade",
+        "cardTwoElementOneTwo": "Consulat Général de France à Libreville: BP : 2161 Tél : +241017920 40 ",
+        "cardTwoElementTwoTitle": "Ambassade du Gabon à Paris: 26bis Av. Raphaël, 75016 Paris, Francia",
         "cardTwoElementTwoOne": "Tel: +33142996868",
-        "cardTwoElementTwoTwo": "Mail: cab.ambassadegabonfrance@yahoo.fr",
+        "cardTwoElementTwoTwo": "Lien ambassade",
         "cardTwoElementTwoThree": "DGDI",
         "cardTwoElementTwoFour": "VISA",
         "cardThreeTitle": "VACCINATION",
@@ -296,8 +293,7 @@
         "cardThreeElementOne": "Vaccin obligatoire: Fièvre jaune (dès l’âge de 6 mois)",
         "cardThreeElementTwo": "Vaccins recommandés: Diphtérie, tétanos, polio, typhoïde, hépatite virale A et B",
         "cardThreeElementThree": "Prévention contre le paludisme: Le Gabon est classé zone 3",
-        "cardThreeElementFour": "Source",
-        "cardThreeElementFive": "Aeroport",
+        "cardThreeElementFour": "Institut Pasteur France",
         "cardFourTitle": "ASSURANCE",
         "cardFourSubtitle": "Pensez à contracter avant votre départ!",
         "cardFourElementOne": "Assurance Maladie avec Hospitalisation et Rapatriement",
@@ -306,7 +302,6 @@
         "cardFiveTitle": "ADRESSES ET NUMÉROS UTILES",
         "cardFiveSubtitle": "Coordonnées et contacts essentiels",
         "cardFiveElementOne": "Au Gabon, l’indicatif téléphonique est le (00 241)",
-        "cardFiveElementTwo": "Consulat Général de France à Libreville: BP : 2161 Tél : +241017920 40 ",
         "cardFiveElementThree": "Police secours: 177 ",
         "cardFiveElementFour": "Polyclinique El Rapha à Libreville: +24107986606 ",
         "cardFiveElementFive": "Consulat de France à Port-Gentil: BP : 511 Tel : +24111552086",

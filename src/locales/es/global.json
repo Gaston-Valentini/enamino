@@ -1,13 +1,162 @@
 {
+    "header": {
+        "slogan": "Un paraíso africano con una biodiversidad excepcional, donde podrás disfrutar de la tranquilidad y experimentar la vida salvaje en su estado puro"
+    },
     "navbar": {
-        "linkOne": "Nuestro Eco-Pueblo",
+        "linkOne": "Nuestro Eco-Village",
         "linkTwo": "Nuestros Safaris",
         "linkThree": "Gabón",
         "linkFour": "Consejos para Viajeros",
         "linkFive": "Contacto",
+
         "selectLanguage": "Idioma",
         "france": "Francés",
         "spanish": "Español",
         "english": "Inglés"
+    },
+    "camp": {
+        "title": "NUESTRO CAMPAMENTO ECO-TURÍSTICO",
+        "text": "Para una inmersión total en la vida salvaje, un confortable campamento en la sabana, voluntariamente de pequeña capacidad, para que disfrutes de momentos privilegiados en plena naturaleza. Ubicado en un acantilado rocoso bajo, al borde de una larga playa desierta, el Eco-village de Enamino está compuesto por una cabaña central 'Restaurante-Bar-Recepción', un bungalow con 3 habitaciones individuales con capacidad para 2 o 3 personas cada una, y un bungalow familiar para 4 o 5 personas. Construido con total respeto por el medio ambiente, nuestro eco-lodge funciona con energía solar, lámparas de queroseno y dispone ocasionalmente de un generador. Para un impacto mínimo en la naturaleza, recogemos agua de lluvia y tratamos los desechos mediante compostaje y quema.",
+        "button": "Contáctanos"
+    },
+    "bungalow": {
+        "title": "ALOJAMIENTO EN BUNGALOW O EN TIENDA",
+        "subtitle": "Diseñado en forma de pueblo-bungalow según el modelo de las viviendas de Ogooué-Maritime, con materiales locales: madera, bambú, rafia, corteza, techo de paja tejida",
+
+        "listOne": "1 cama doble",
+        "listTwo": "2 camas individuales superpuestas en uno de los bungalows",
+        "listThree": "Mosquiteras",
+        "listFour": "Ventilación natural gracias al aire oceánico",
+        "listFive": "Iluminación con lámpara solar",
+        "listSix": "Baño con ducha y sanitario",
+        "listSeven": "Ducha tradicional con cubo y recogida de agua de lluvia",
+        "listEight": "Agua caliente calentada con fuego de leña",
+        "listNine": "Terraza frente al mar",
+        "listTen": "Sábanas, toallas y mantas polares suministradas",
+        "listEleven": "Posibilidad de dormir en tienda-domo de 2 o 4 plazas si los bungalows están completos",
+        "listTwelve": "Organización de vivacs en la sabana",
+
+        "text": "...Único, vista panorámica del océano, desde donde podrás distinguir durante las noches oscuras las olas cargadas de plancton fosforescente. Durante el día, delfines y tortugas vienen a alimentarse en las rocas frente al campamento..."
+    },
+    "menu": {
+        "title": "PENSIÓN COMPLETA Y MESA DE HUÉSPEDES",
+        "subtitle": "Podrás descubrir y saborear los deliciosos sabores africanos según la temporada y la oferta",
+
+        "listOne": "Las especialidades locales: Odica, Nyenboué, hojas de yuca",
+        "listTwo": "Los deliciosos pescados frescos capturados en el lugar",
+        "listThree": "Las famosas ostras de Enamino frescas o gratinadas",
+        "listFour": "El pollo marinado a la brasa y otras parrilladas",
+        "listFive": "Frutas y verduras de temporada de nuestro huerto o de las plantaciones vecinas: piña, papaya, coco, plátano dulce y plátano macho, aguacate, yuca, taro, tomate, berenjena, fruta de pan...",
+        "listSix": "Bebidas frescas: cervezas locales e internacionales, jugos de frutas, refrescos, aguas minerales, vinos, etc.",
+        "listSeven": "Picnic incluido para todas las excursiones de un día"
+    },
+    "enviroment": {
+        "headingTitle": "NUESTRO ENTORNO SALVAJE",
+        "headingText": "Ubicado entre la selva y el océano, a lo largo de una playa salvaje perfectamente intacta, el sitio de Enamino te ofrece la opción de una estancia de relajación o una estancia con actividades.",
+        "headingButton": "Nuestras Actividades",
+
+        "cardTitleOne": "Un entorno...",
+        "cardTextOne": "Un entorno de vegetación privilegiado para la observación de animales y una playa bordeada por una densa selva repleta de animales como cangrejos fantasmas, conchas, hipopótamos, antílopes sitatunga, cefalofos, elefantes de selva (o assalas), gorilas de llanura occidental y chimpancés en ambos lados de las lagunas que rodean Enamino. Varias especies de tortugas marinas (laúd, verde, olivácea, carey) vienen a anidar en la playa salvaje de Enamino de octubre a marzo.",
+        "cardTitleTwo": "Arrullado por el océano...",
+        "cardTextTwo": "...desde tu hamaca, podrás distinguir grupos de delfines navegando pacíficamente en las olas frente al campamento, así como ballenas jorobadas que vienen a aparearse y dar a luz de junio a septiembre en las cálidas aguas de Gabón, y admirar sus espectaculares saltos.",
+        "cardTitleThree": "Podrás escuchar...",
+        "cardTextThree": "...los cantos característicos del cucal y del ibis hagedash, así como una multitud de otras aves fácilmente observables desde el campamento, como colonias de abejarucos carmesí, bandadas de loros grises de Gabón o Jaco, pipits de patas largas, varias especies de suimangas, martines pescadores, cálaos, turacos, aves marinas, zarapitos y pelícanos grises.",
+        "cardTitleFive": "También podrás...",
+        "cardTextFive": "...pescar desde la playa salvaje de Enamino, solo o acompañado de un guía, en pesca deportiva o en 'Iniciación a la pesca tradicional', o incluso hacer surf o kitesurf con tu tabla en las olas del océano.",
+        "cardTitleFour": "Disfrutarás...",
+        "cardTextFour": "...de varias terrazas naturales que ofrecen una vista panorámica del océano, haciendo memorables tus aperitivos al atardecer."
+    },
+    "loango": {
+        "title": "EL PARQUE NACIONAL DE LOANGO",
+
+        "blockOne": "Considerado por los especialistas como UNO DE LOS PARQUES MÁS RICOS DE ÁFRICA CENTRAL, constituye un verdadero reservorio de biodiversidad con biotopos variados: selva de galería, sabana, pantano, manglar, laguna, playa. El Parque Nacional de Loango se extiende sobre una superficie de 1,550 km². Una franja de tierra que se extiende a lo largo de 86 kilómetros situada entre el océano y las lagunas: al norte la Laguna de Iguela (alias Laguna Ngové) y al sur la Laguna de Sette Cama (alias Laguna Ndogo), al oeste grandes pantanos y al este el Océano Atlántico. Este parque agrupa las antiguas reservas naturales de Iguela y Sette-Cama y tiene la particularidad de poder ser recorrido en su totalidad solo a pie.",
+        "blockTwo": "Famoso por su GRAN CONCENTRACIÓN DE ELEFANTES de selva o assalas y sus HIPOPÓTAMOS SURFISTAS en las olas. En sus playas bordeadas por la selva, grandes simios, búfalos de selva, potamoqueros, panteras y tortugas marinas se reúnen al atardecer, frente al espectacular salto de las ballenas."
+    },
+    "safarisHeader": "Nuestros Safaris",
+    "safaris": {
+        "title": "NUESTROS DIFERENTES SAFARIS EN LOANGO",
+        "safariOneTitle": "SAFARI EN BARCO POR EL PN LOANGO",
+        "safariOneInfoTitleOne": "Para las familias...",
+        "safariOneInfoTextOne": "Recorrido en laguna en barco a lo largo de las orillas del Parque Nacional de Loango. Algunas aproximaciones silenciosas a pie te permitirán observar mejor los animales cercanos a la orilla.",
+        "safariOneListTitle": "DESARROLLO DEL SAFARI",
+        "safariOneListOne": "Salida del lodge por la mañana en 4x4 hasta el puesto de la 'Brigada de Fauna' situado en la orilla de la Laguna de Iguela, frente al Parque Nacional de Loango (30 min)",
+        "safariOneListTwo": "Salida en barco para un recorrido alrededor del Parque Nacional de Loango en busca de animales",
+        "safariOneListThree": "Regreso al campamento de Enamino al final de la tarde",
+        "safariOneListFour": "Duración de la excursión: 1 día",
+        "safariOneListFive": "Almuerzo picnic incluido",
+        "safariOneListSix": "Actividades de pesca y observación de animales",
+        "safariOneInfoTitleTwo": "Precio...",
+        "safariOneInfoTextTwo": "70.000 FCFA / persona (mínimo 3 personas)",
+
+        "safariTwoTitle": "SAFARI EN 4X4 POR EL PN LOANGO",
+        "safariTwoInfoTitleOne": "Para los aventureros...",
+        "safariTwoInfoTextOne": "Recorrido en 4x4 para descubrir la flora y fauna del Parque Nacional de Loango. El recorrido de las pistas y las diferentes paradas en los puntos estratégicos permiten observar la fauna en varios biotopos: playa, sabana, selva. ",
+        "safariTwoListTitle": "DESARROLLO DEL SAFARI",
+        "safariTwoListOne": "Salida del campamento en 4x4 a lo largo de la costa (1h 30)",
+        "safariTwoListTwo": "Entrada al Parque Nacional de Loango por el camino hacia la Bahía de Nkomi",
+        "safariTwoListThree": "Recorrido en pistas alrededor del Parque Nacional de Loango, paradas para observar animales y sitios excepcionales.",
+        "safariTwoListFour": "Regreso al campamento de Enamino al final de la tarde",
+        "safariTwoListFive": "Duración de la excursión: 1 día",
+        "safariTwoListSix": "Almuerzo picnic incluido",
+        "safariTwoInfoTitleTwo": "Precio...",
+        "safariTwoInfoTextTwo": "70.000 FCFA / persona (mínimo 3 personas)",
+
+        "safariThreeTitle": "SAFARI A PIE POR EL PN LOANGO",
+        "safariThreeInfoTitleOne": "Para los más valientes...",
+        "safariThreeInfoTextOne": "Recorrido a pie para descubrir la flora y fauna del Parque Nacional de Loango. El recorrido en canoa seguido de un safari a pie en el corazón del Parque Nacional de Loango te permitirán observar la fauna en varios biotopos: playa, sabana, selva. ",
+        "safariThreeListTitle": "DESARROLLO DEL SAFARI",
+        "safariThreeListOne": "Salida del lodge en 4x4 hasta la playa de las tortugas (30 min)",
+        "safariThreeListTwo": "Salida en canoa tradicional alrededor del Parque Nacional de Loango en busca de animales",
+        "safariThreeListThree": "Safari a pie en el corazón del Parque Nacional de Loango para observar animales y sitios excepcionales.",
+        "safariThreeListFour": "Regreso al campamento de Enamino al final de la tarde",
+        "safariThreeListFive": "Duración de la excursión: 1 día",
+        "safariThreeListSix": "Almuerzo picnic incluido",
+        "safariThreeInfoTitleTwo": "Precio...",
+        "safariThreeInfoTextTwo": "70.000 FCFA / persona (mínimo 3 personas)"
+    },
+    "map": {
+        "heading": "MAPA"
+    },
+    "gaboon": {
+        "title": "GABÓN",
+        "blockOne": "Ubicado en la costa atlántica de África Central, a ambos lados del ecuador, Gabón es un país con múltiples riquezas y contrastes que comparte frontera con Camerún, Guinea Ecuatorial y Congo Brazzaville.",
+        "blockTwo": "Cubierto en un 85% por bosques primarios, Gabón es un refugio para una flora y fauna excepcionales. Este santuario verde está adornado por una gran diversidad de paisajes de insólita belleza, que van desde vastas llanuras herbáceas hasta densos manglares, desde verdes colinas onduladas hasta lagunas y playas vírgenes. Auténtica tierra de aventura, ofrece a los amantes de la naturaleza y el ecoturismo un parque infantil de inmensas posibilidades.",
+        "blockThree": "Gabón también es un destino con una gran riqueza cultural, con más de 40 etnias que coexisten en armonía en un contexto de estabilidad política. La hospitalidad de sus habitantes, las tradiciones y el arte local te permitirán descubrir este país en sus aspectos más humanos y compartir experiencias inolvidables con los pueblos gaboneses. Una tierra de encuentro y cruce, Gabón es también un destino accesible, que permite al viajero de espíritu libre moverse a su propio ritmo y de acuerdo a sus deseos.",
+        "blockFour": "Descubrir Gabón es ir al encuentro de la auténtica África, donde la naturaleza y la cultura se combinan para ofrecer una experiencia de viaje única e inolvidable. En el cruce de caminos, Gabón te espera para una aventura ecológica fuera de lo común, un auténtico encuentro con la esencia de África.",
+        "button": "Ver más"
+    },
+    "conseils": {
+        "title": "CONSEJOS PRÁCTICOS PARA VIAJEROS",
+        "blockOneTitle": "PREPARAR TU VIAJE A GABÓN",
+        "blockOneText": "Documentos a proporcionar para obtener la visa para Gabón:",
+        "blockOneListOne": "Pasaporte válido (más de 6 meses después de la fecha de regreso)",
+        "blockOneListTwo": "Certificado de vacunación contra la fiebre amarilla (original + fotocopia)",
+        "blockOneListThree": "Formulario de visa cumplimentado + 2 fotos de pasaporte",
+        "blockOneListFour": "Copia del billete de avión de ida y vuelta (o certificado de la agencia de viajes)",
+        "blockOneListFive": "Prueba de alojamiento (certificado de alojamiento firmado por el titular del alojamiento, copia del documento de identidad del anfitrión)",
+        "blockOneListSix": "Prueba de recursos (últimas 3 nóminas, declaración de impuestos o certificado bancario) o certificado de trabajo",
+        "blockOneListSeven": "Copia del seguro de viaje + repatriación",
+        "blockOneListEight": "1 sobre A4 con la dirección de retorno (por ejemplo, Chronopost)",
+        "blockOneListNine": "Cualquier documento que demuestre la razón de tu viaje (carta de invitación, invitación a conferencias, cursos, etc.)",
+        "blockOneTextTwo": "Documentos a proporcionar para obtener la visa para Gabón:",
+
+        "blockTwoTitle": "SALUD",
+        "blockTwoTextOne": "Se requiere un certificado de vacunación contra la fiebre amarilla para ingresar a Gabón.",
+        "blockTwoTextTwo": "Se recomienda encarecidamente un tratamiento contra la malaria. Solicita más información a tu médico antes de la salida.",
+        "blockTwoTextThree": "Lleva tu tratamiento habitual y un botiquín de primeros auxilios: analgésicos, antihistamínicos, analgésicos, antidiarreicos, antibióticos de amplio espectro, apósitos, desinfectantes, etc.",
+        "blockTwoTextFour": "Se recomienda encarecidamente un tratamiento contra la malaria. Solicita más información a tu médico antes de la salida.",
+
+        "blockThreeTitle": "SEGURO",
+        "blockThreeTextOne": "Se recomienda encarecidamente contratar un seguro médico y de repatriación antes de salir para Gabón.",
+
+        "blockFourTitle": "ÉPOCA DEL AÑO",
+        "blockFourTextOne": "Gabón tiene un clima ecuatorial con dos estaciones secas (de junio a septiembre y de diciembre a febrero) y dos estaciones lluviosas (de marzo a mayo y de octubre a noviembre). La mejor época para viajar a Gabón es de junio a septiembre durante la gran estación seca.",
+
+        "blockFiveTitle": "MONEDA",
+        "blockFiveTextOne": "La moneda oficial de Gabón es el franco CFA (XAF). Es recomendable llevar efectivo ya que las tarjetas de crédito no se aceptan en todas partes. Puedes cambiar tu dinero en bancos o casas de cambio en las principales ciudades.",
+
+        "blockSixTitle": "SEGURIDAD",
+        "blockSixTextOne": "Gabón es un país seguro para los turistas. Sin embargo, se recomienda tomar las precauciones habituales y evitar caminar solo por la noche, especialmente en las grandes ciudades.",
+        "blockSixTextTwo": "Se recomienda encarecidamente contratar un seguro médico y de repatriación antes de salir para Gabón."
     }
 }

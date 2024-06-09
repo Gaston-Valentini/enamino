@@ -1,8 +1,10 @@
 import style from "./Camp.module.css";
 import { useTranslation } from "react-i18next";
 import Carousel from "../../components/Carousel/Carousel";
-import image1 from "../../assets/images/header.jpg";
-import image2 from "../../assets/images/camp.jpg";
+import image1 from "../../assets/images/camp-1.jpg";
+import image2 from "../../assets/images/camp-2.jpg";
+import image3 from "../../assets/images/camp-3.jpg";
+import image4 from "../../assets/images/camp-4.jpg";
 
 export default function Camp() {
     const [t, i18n] = useTranslation("global");
@@ -22,6 +24,12 @@ export default function Camp() {
                 </div>
                 <div>
                     <img src={image2} />
+                </div>
+                <div>
+                    <img src={image3} />
+                </div>
+                <div>
+                    <img src={image4} />
                 </div>
             </Carousel>
         </section>

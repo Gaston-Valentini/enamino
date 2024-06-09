@@ -10,15 +10,15 @@ import treking from "../../assets/images/treking.png";
 
 export default function Map() {
     const enamino = { lat: -1.7277, lng: 9.2535 };
-    const oboue = { lat: -1.5640275260912617, lng: 9.265210210782604 };
-    const ileEvengue = { lat: -1.6433040117066657, lng: 9.321858467199517 };
-    const LaMissionSainteAnne = { lat: -1.621168382134359, lng: 9.383606400684322 };
+    const oboue = { lat: -1.5750275260912617, lng: 9.265210210782604 };
+    const ileEvengue = { lat: -1.6513040117066657, lng: 9.321858467199517 };
+    const LaMissionSainteAnne = { lat: -1.651168382134359, lng: 9.383606400684322 };
     const RiviereEmpivie = { lat: -1.6698838340061741, lng: 9.416962213709047 };
-    const VillageDIguela = { lat: -1.769380852582346, lng: 9.372120842187 };
-    const ParcNationalDeLoango = { lat: -1.9368483319996164, lng: 9.42183777115863 };
+    const VillageDIguela = { lat: -1.849380852582346, lng: 9.372120842187 };
+    const ParcNationalDeLoango = { lat: -1.9868483319996164, lng: 9.42183777115863 };
     const Yatuga = { lat: -1.9661651242933986, lng: 9.476959531617533 };
-    const EntreeDAkaka = { lat: -2.037438722640862, lng: 9.570107257975804 };
-    const VillageDInyougou = { lat: -2.2721384621856924, lng: 9.722699319509346 };
+    const EntreeDAkaka = { lat: -2.057438722640862, lng: 9.570107257975804 };
+    const VillageDInyougou = { lat: -2.2861384621856924, lng: 9.722699319509346 };
     const VillageDeSounga = { lat: -2.390201764172304, lng: 9.731889977371498 };
     const CampementDeBrousseDEnaminoAAkaka = { lat: -2.294659744657578, lng: 9.743751704890485 };
 

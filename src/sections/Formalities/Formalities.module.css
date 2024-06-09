@@ -67,10 +67,6 @@
     gap: 10px;
 }
 
-.cardsCardListElement {
-    word-break: break-all;
-}
-
 .cardsCardListElement ul {
     padding-left: 20px;
 }

@@ -15,7 +15,7 @@ export default function Footer() {
             <ul className={style.data}>
                 <li className={style.dataElement}>
                     <FaHome />
-                    <p>L'Eco-Village d'Enamino Parc, Nacional de Loango-Gabon</p>
+                    <p>L'Eco-Village d'Enamino - Parc National de Loango - Gabon</p>
                 </li>
                 <li className={style.dataElement}>
                     <FaUser />
@@ -42,6 +42,12 @@ export default function Footer() {
                     </a>
                 </div>
             </div>
+            <div id="fileContent_337595">
+                <a href="https://www.petitfute.com" title="Petit Futé">
+                    <img src="https://www.petitfute.com/img/widget/logo.jpg" width="100" height="100" border="0" alt="Petit Futé" />
+                </a>
+            </div>
+            <script language="javascript" type="text/javascript" src="https://pro.petitfute.com/compte/widget/etablissement/337595/src/1/"></script>
         </section>
     );
 }

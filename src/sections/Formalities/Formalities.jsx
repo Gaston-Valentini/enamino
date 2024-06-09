@@ -27,11 +27,6 @@ export default function Formalities() {
                         <li className={style.cardsCardListElement}>{t("formailities.cardOneElementThree")}</li>
                         <li className={style.cardsCardListElement}>{t("formailities.cardOneElementFour")}</li>
                         <li className={style.cardsCardListElement}>{t("formailities.cardOneElementFive")}</li>
-                        <li className={style.cardsCardListElement}>
-                            <a href="https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/gabon/#:~:text=Les%20voyageurs%20%C3%A0%20destination%20du% 20Gabón%20are%20held%20%3A&text=of%20pr%C3%A9senter%20un%20%C2%AB%20formular%20covid,d%C3%A8s%20sus%20llegaron%C3%A9e%20au%20Gabón">
-                                {t("formailities.cardOneElementSix")}
-                            </a>
-                        </li>
                     </ul>
                 </div>
                 <div className={style.cardsCard}>
@@ -47,20 +42,32 @@ export default function Formalities() {
                             <p>{t("formailities.cardTwoElementOneTitle")}</p>
                             <ul>
                                 <li>{t("formailities.cardTwoElementOneOne")}</li>
+                                <li>
+                                    <a href="https://ga.ambafrance.org/" target="_blank">
+                                        {t("formailities.cardTwoElementOneThree")}
+                                    </a>
+                                </li>
                                 <li>{t("formailities.cardTwoElementOneTwo")}</li>
-                                <li>{t("formailities.cardTwoElementOneThree")}</li>
                             </ul>
                         </li>
                         <li className={style.cardsCardListElement}>
                             <p>{t("formailities.cardTwoElementTwoTitle")}</p>
                             <ul>
                                 <li>{t("formailities.cardTwoElementTwoOne")}</li>
-                                <li>{t("formailities.cardTwoElementTwoTwo")}</li>
                                 <li>
-                                    <a href="https://www.dgdi.ga">{t("formailities.cardTwoElementTwoThree")}</a>
+                                    <a href="https://amba-france.ga/" target="_blank">
+                                        {t("formailities.cardTwoElementTwoTwo")}
+                                    </a>
                                 </li>
                                 <li>
-                                    <a href="https://www.action-visas.com/visa/Gabon">{t("formailities.cardTwoElementTwoFour")}</a>
+                                    <a href="https://www.dgdi.ga" target="_blank">
+                                        {t("formailities.cardTwoElementTwoThree")}
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://evisa.dgdi.ga/" target="_blank">
+                                        {t("formailities.cardTwoElementTwoFour")}
+                                    </a>
                                 </li>
                             </ul>
                         </li>
@@ -79,11 +86,8 @@ export default function Formalities() {
                         <li className={style.cardsCardListElement}>{t("formailities.cardThreeElementTwo")}</li>
                         <li className={style.cardsCardListElement}>{t("formailities.cardThreeElementThree")}</li>
                         <li className={style.cardsCardListElement}>
-                            <a href="http://www.pasteur.fr">{t("formailities.cardThreeElementFour")}</a>
-                        </li>
-                        <li className={style.cardsCardListElement}>
-                            <a href="https://www.libreville-aeroport.com/guide-voyageur/coronavirus-covid-19/">
-                                {t("formailities.cardThreeElementFive")}
+                            <a href="http://www.pasteur.fr" target="_blank">
+                                {t("formailities.cardThreeElementFour")}
                             </a>
                         </li>
                     </ul>
@@ -100,7 +104,9 @@ export default function Formalities() {
                         <li className={style.cardsCardListElement}>{t("formailities.cardFourElementOne")}</li>
                         <li className={style.cardsCardListElement}>{t("formailities.cardFourElementTwo")}</li>
                         <li className={style.cardsCardListElement}>
-                            <a href="http://www.diplomatie.gouv.fr">{t("formailities.cardFourElementThree")}</a>
+                            <a href="http://www.diplomatie.gouv.fr" target="_blank">
+                                {t("formailities.cardFourElementThree")}
+                            </a>
                         </li>
                     </ul>
                 </div>
@@ -114,7 +120,6 @@ export default function Formalities() {
                     </div>
                     <ul className={style.cardsCardList}>
                         <li className={style.cardsCardListElement}>{t("formailities.cardFiveElementOne")}</li>
-                        <li className={style.cardsCardListElement}>{t("formailities.cardFiveElementTwo")}</li>
                         <li className={style.cardsCardListElement}>{t("formailities.cardFiveElementThree")}</li>
                         <li className={style.cardsCardListElement}>{t("formailities.cardFiveElementFour")}</li>
                         <li className={style.cardsCardListElement}>{t("formailities.cardFiveElementFive")}</li>
