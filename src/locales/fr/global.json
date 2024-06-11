@@ -16,7 +16,8 @@
     },
     "camp": {
         "title": "NOTRE CAMP ÉCO-TOURISTIQUE",
-        "text": "Pour une immersion totale dans la vie sauvage, confortable camp de brousse volontairement de petite capacité, afin de vous faire bénéficier d’instants privilégiés au plus proche de la nature. Situé sur une falaise rocheuse peu élevée en bordure d’une longue plage déserte, l’Eco-village d’Enamino est composé d’une paillote centrale « Restaurant-Bar-Réception », d'un bungalow avec 3 chambres individuelles de 2 ou 3 couchages chacune, ainsi que d'un bungalow familial de 4 à 5 couchages. Construit dans le respect total de l’environnement, notre éco-lodge fonctionne à l’énergie solaire, à la lampe à pétrole et ne dispose qu’occasionnellement d’un générateur. Pour un impact minimum sur la nature, récupération des eaux de pluie et traitement des déchets par compostage et brûlage.",
+        "textOne": "Pour une immersion totale dans la vie sauvage, confortable camp de brousse volontairement de petite capacité, afin de vous faire bénéficier d’instants privilégiés au plus proche de la nature. Situé sur une falaise rocheuse peu élevée en bordure d’une longue plage déserte, l’Eco-village d’Enamino est composé d’une paillote centrale « Restaurant-Bar-Réception », d'un bungalow avec 3 chambres individuelles de 2 ou 3 couchages chacune, ainsi que d'un bungalow familial de 4 à 5 couchages. Construit dans le respect total de l’environnement, notre éco-lodge fonctionne à l’énergie solaire, à la lampe à pétrole et ne dispose qu’occasionnellement d’un générateur. Pour un impact minimum sur la nature, récupération des eaux de pluie et traitement des déchets par compostage et brûlage.",
+        "textTwo": "Idéalement situé dans le massif forestier du Bassin du Congo (2ème poumon de la planète), sur l’équateur africain, blotti entre l’océan Atlantique et la forêt pluviale équatoriale. L'Eco-Village d'Enamino se trouve en brousse à mi-distance entre Omboué et le célèbre Parc National de Loango (30mn en 4x4). Notre camp ECOLOGIQUE bénéficie d’un magnifique site stratégique pour la réalisation de safaris de choix. Nos activités : SAFARI, BIVOUAC EN BROUSSE, EXCURSION TOURISTIQUE, PÊCHE SPORTIVE.",
         "button": "Contactez-nous"
     },
     "bungalow": {
@@ -53,18 +54,17 @@
     "enviroment": {
         "headingTitle": "NOTRE ENVIRONNEMENT SAUVAGE",
         "headingText": "Serti entre forêt et océan, le long d’une plage sauvage restée parfaitement intacte, le site d’Enamino vous laisse le choix entre: Sèjour détente et sèjour avec activités.",
-        "headingButton": "Nos Activitès",
 
-        "cardTitleOne": "Un environnement...",
-        "cardTextOne": "Ecrin de végétation privilégié pour la vision animalière et plage ourlée d’une épaisse forêt regorgeant animaux tels que des crabes fantômes, coquillages, hippopotames, antilopes sitatunga, céphalophes, éléphants de forêt (ou assalas), gorilles des plaines occidentales et chimpanzés des deux côtés des lagunes qui entourent Enamino. Plusieurs espèces de tortues marines (luth, verte, olivâtre, caret) viennent pondre sur la plage sauvage d'Enamino d'octobre à mars.",
+        "cardTitleOne": "Un environnement unique...",
+        "cardTextOne": "Ecrin de végétation privilégié pour la vision animalière et plage ourlée d’une épaisse forêt regorgeant animaux tels que des crabes fantômes, coquillages, hippopotames, antilopes sitatunga, céphalophes, éléphants de forêt (ou assalas), gorilles des plaines occidentales et chimpanzés de chaque côtès de deux lagunes qui entourent Enamino. Plusieurs espèces de tortues marines (luth, verte, olivâtre, caret) viennent pondre sur la plage sauvage d'Enamino d'octobre à mars.",
         "cardTitleTwo": "Bercé par l'océan...",
-        "cardTextTwo": "...depuis ton hamac, vous pourrez distinguer des groupes de dauphins naviguant paisiblement sur les vagues face au campement ainsi que des baleines à bosse venant s'accoupler et mettre bas de juin à septembre dans les eaux chaudes du Gabon, et admirer leurs sauts spectaculaires.",
+        "cardTextTwo": "...depuis votre hamac, vous pourrez distinguer des groupes de dauphins, naviguant paisiblement sur les vagues face au campement, ainsi que des baleines à bosse venant s'accoupler et mettre bas de juin à septembre dans les eaux chaudes du Gabon, et admirer leurs sauts spectaculaires.",
         "cardTitleThree": "Vous pourrez écouter...",
         "cardTextThree": "...les chants caractéristiques du coucal et de l'ibis hagedash, ainsi qu'une multitude d'autres oiseaux facilement observables depuis le campement, tels que des colonies de guêpiers gris-rosés, des bandes de perroquets du Gabon ou Jaco, des pipits à longues pattes, plusieurs espèces de souimangas, des martins-pêcheurs, des calaos, des touracos, des oiseaux marins, des courlis et des pélicans gris.",
-        "cardTitleFive": "Vous pourrez également...",
-        "cardTextFive": "...pêcher depuis la plage sauvage d'Enamino, seul ou accompagné d'un guide, en pêche sportive ou en 'Initiation à la pêche traditionnelle', ou même faire du surf ou du kite avec votre planche sur les vagues de l'océan.",
-        "cardTitleFour": "Vous apprécierez...",
-        "cardTextFour": "...plusieurs terrasses naturelles offrant une vue panoramique sur l'océan, rendant mémorables vos apéritifs au coucher du soleil."
+        "cardTitleFour": "Vous pourrez également...",
+        "cardTextFour": "...pêcher depuis la plage sauvage d'Enamino, seul ou accompagné d'un guide, en pêche sportive ou en 'Initiation à la pêche traditionnelle', ou même faire du surf ou du kite avec votre planche sur les vagues de l'océan.",
+        "cardTitleFive": "Vous vous délecterez...",
+        "cardTextFive": "...sur l'une de nos terrasses naturelles offrant une vue panoramique sur l'océan, rendant mémorables vos apéritifs au coucher du soleil"
     },
     "loango": {
         "title": "LE PARC NATIONAL DE LOANGO",
@@ -232,7 +232,7 @@
         "historicalFour": "Current President of the Republic: his son, Ali Ben Bongo Ondimba since August 30, 2009",
         "historicalFive": "National Day on August 17"
     },
-    "travelersHeader": "Conseils aux voyagerus",
+    "travelersHeader": "Conseils aux voyageurs",
     "bag": {
         "title": "DANS VOTRE VALISE",
         "subtitle": "Sous l'équateur le temps change rapidement et le soleil peut laisser place à la pluie en moins d'une heure! Nous vous conseillons donc de prévoir dans votre valise...",

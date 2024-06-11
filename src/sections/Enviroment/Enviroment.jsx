@@ -17,9 +17,6 @@ export default function Enviroment() {
                     <div className={style.heading}>
                         <p className={style.headingTitle}>{t("enviroment.headingTitle")}</p>
                         <p className={style.headingText}>{t("enviroment.headingText")}</p>
-                        <Link to={"/"} className={style.headingButton}>
-                            {t("enviroment.headingButton")}
-                        </Link>
                     </div>
                     <div className={style.cards}>
                         <div className={style.cardsCardLeft}>

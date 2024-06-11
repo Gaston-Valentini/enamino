@@ -14,7 +14,12 @@ export default function Camp() {
             <div className={style.data}>
                 <div className={style.dataInfo}>
                     <p className={style.dataInfoTitle}>{t("camp.title")}</p>
-                    <p className={style.dataInfoText}>{t("camp.text")}</p>
+                    <p className={style.dataInfoText}>
+                        {t("camp.textOne")}
+                        <br />
+                        <br />
+                        {t("camp.textTwo")}
+                    </p>
                     <button className={style.dataInfoButton}>{t("camp.button")}</button>
                 </div>
             </div>

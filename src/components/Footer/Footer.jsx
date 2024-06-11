@@ -31,6 +31,15 @@ export default function Footer() {
                     <p>enamino@gmail.com</p>
                 </li>
             </ul>
+            <div className={style.widget}>
+                <a
+                    href="https://www.petitfute.com/v56217-parc-national-de-loango/c1166-hebergement/c158-hotel/342697-l-eco-village-d-enamino.html"
+                    target="_blank"
+                >
+                    <img src="https://www.petitfute.com/img/widget/logo.jpg" />
+                </a>
+            </div>
+            <script language="javascript" type="text/javascript" src="https://pro.petitfute.com/compte/widget/etablissement/337595/src/1/"></script>
             <div className={style.developer}>
                 <p className={style.developerText}>{t("footer.developer")}</p>
                 <div className={style.developerIcons}>
@@ -42,12 +51,6 @@ export default function Footer() {
                     </a>
                 </div>
             </div>
-            <div id="fileContent_337595">
-                <a href="https://www.petitfute.com" title="Petit Futé">
-                    <img src="https://www.petitfute.com/img/widget/logo.jpg" width="100" height="100" border="0" alt="Petit Futé" />
-                </a>
-            </div>
-            <script language="javascript" type="text/javascript" src="https://pro.petitfute.com/compte/widget/etablissement/337595/src/1/"></script>
         </section>
     );
 }
