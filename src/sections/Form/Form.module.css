@@ -5,6 +5,7 @@
     align-items: center;
     gap: 50px;
     background-color: var(--white);
+    box-shadow: 0 0 10px black;
 }
 
 .text {
@@ -93,6 +94,16 @@
     cursor: not-allowed;
     color: var(--brown);
     background-color: var(--white);
+}
+
+.formMessageOk {
+    font-weight: 800;
+    color: rgb(113, 189, 0);
+}
+
+.formMessageBad {
+    font-weight: 800;
+    color: rgb(189, 0, 0);
 }
 
 @media (max-width: 1024px) {

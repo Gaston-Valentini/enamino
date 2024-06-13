@@ -5,6 +5,11 @@ import image1 from "../../assets/images/camp-1.jpg";
 import image2 from "../../assets/images/camp-2.jpg";
 import image3 from "../../assets/images/camp-3.jpg";
 import image4 from "../../assets/images/camp-4.jpg";
+import image5 from "../../assets/images/camp-5.jpg";
+import image6 from "../../assets/images/camp-6.jpg";
+import image7 from "../../assets/images/camp-7.jpg";
+import image8 from "../../assets/images/camp-8.jpg";
+import image9 from "../../assets/images/camp-9.jpg";
 
 export default function Camp() {
     const [t, i18n] = useTranslation("global");
@@ -35,6 +40,21 @@ export default function Camp() {
                 </div>
                 <div>
                     <img src={image4} />
+                </div>
+                <div>
+                    <img src={image5} />
+                </div>
+                <div>
+                    <img src={image6} />
+                </div>
+                <div>
+                    <img src={image7} />
+                </div>
+                <div>
+                    <img src={image8} />
+                </div>
+                <div>
+                    <img src={image9} />
                 </div>
             </Carousel>
         </section>

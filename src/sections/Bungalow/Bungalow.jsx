@@ -4,108 +4,60 @@ import { useEffect, useState } from "react";
 import bungalowOne from "../../assets/images/bungalow-1.jpg";
 import BungalowTwo from "../../assets/images/bungalow-2.jpg";
 import BungalowThree from "../../assets/images/bungalow-3.jpg";
-import bungalowFour from "../../assets/images/bungalow-4.jpg";
-import BungalowFive from "../../assets/images/bungalow-5.jpg";
-import BungalowSix from "../../assets/images/bungalow-6.jpg";
 import { IoArrowBackCircleSharp, IoArrowForwardCircleSharp } from "react-icons/io5";
 
 export default function Bungalow() {
     const [t, i18n] = useTranslation("global");
     const [innerWidth, setInnerWidth] = useState(window.innerWidth);
     const [carouselIndex, setCarouselIndex] = useState(1);
-    const images = Array.from(document.querySelectorAll(".bungalowsCarouselImage"));
 
     const onNext = () => {
+        const images = Array.from(document.querySelectorAll(".bungalowsCarouselImage"));
         switch (carouselIndex) {
             case 1:
-                images.map((e) => {
+                images.forEach((e) => {
                     e.style.transform = "translateX(-100%)";
                 });
                 setCarouselIndex(2);
                 break;
             case 2:
-                images.map((e) => {
+                images.forEach((e) => {
                     e.style.transform = "translateX(-200%)";
                 });
                 setCarouselIndex(3);
                 break;
-
             case 3:
-                images.map((e) => {
-                    e.style.transform = "translateX(-300%)";
-                });
-                setCarouselIndex(4);
-                break;
-
-            case 4:
-                images.map((e) => {
-                    e.style.transform = "translateX(-400%)";
-                });
-                setCarouselIndex(5);
-                break;
-
-            case 5:
-                images.map((e) => {
-                    e.style.transform = "translateX(-500%)";
-                });
-                setCarouselIndex(6);
-                break;
-
-            case 6:
-                images.map((e) => {
+                images.forEach((e) => {
                     e.style.transform = "translateX(0)";
                 });
                 setCarouselIndex(1);
                 break;
-
             default:
                 break;
         }
     };
 
     const onPrev = () => {
+        const images = Array.from(document.querySelectorAll(".bungalowsCarouselImage"));
         switch (carouselIndex) {
             case 1:
-                images.map((e) => {
-                    e.style.transform = "translateX(-500%)";
-                });
-                setCarouselIndex(6);
-                break;
-            case 2:
-                images.map((e) => {
-                    e.style.transform = "translateX(0)";
-                });
-                setCarouselIndex(1);
-                break;
-
-            case 3:
-                images.map((e) => {
-                    e.style.transform = "translateX(-100%)";
-                });
-                setCarouselIndex(2);
-                break;
-
-            case 4:
-                images.map((e) => {
+                images.forEach((e) => {
                     e.style.transform = "translateX(-200%)";
                 });
                 setCarouselIndex(3);
                 break;
-
-            case 5:
-                images.map((e) => {
-                    e.style.transform = "translateX(-300%)";
+            case 2:
+                images.forEach((e) => {
+                    e.style.transform = "translateX(0)";
                 });
-                setCarouselIndex(4);
+                setCarouselIndex(1);
                 break;
-
-            case 6:
-                images.map((e) => {
-                    e.style.transform = "translateX(-400%)";
+            case 3:
+                images.forEach((e) => {
+                    e.style.transform = "translateX(-100%)";
                 });
-                setCarouselIndex(5);
+                setCarouselIndex(2);
                 break;
-
             default:
                 break;
         }
@@ -164,15 +116,6 @@ export default function Bungalow() {
                         </div>
                         <div className={`${style.imagesCarouselBigImage} bungalowsCarouselImage`}>
                             <img src={BungalowThree} />
-                        </div>
-                        <div className={`${style.imagesCarouselBigImage} bungalowsCarouselImage`}>
-                            <img src={bungalowFour} />
-                        </div>
-                        <div className={`${style.imagesCarouselBigImage} bungalowsCarouselImage`}>
-                            <img src={BungalowFive} />
-                        </div>
-                        <div className={`${style.imagesCarouselBigImage} bungalowsCarouselImage`}>
-                            <img src={BungalowSix} />
                         </div>
                     </div>
                     <div className={style.imagesCarouselNavbar}>

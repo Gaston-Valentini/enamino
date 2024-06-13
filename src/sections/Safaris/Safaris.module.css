@@ -8,107 +8,103 @@
     box-shadow: 0 0 10px black;
 }
 
-.title {
+.heading {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+.headingTitle {
     font-family: var(--secondary);
     font-size: 30px;
     font-weight: 800;
 }
 
-.safaris {
-    max-width: 1000px;
-    display: flex;
-    flex-direction: column;
-    gap: 50px;
-}
-
-.safari {
-    display: grid;
-    grid-template-columns: 2fr 3fr;
-    gap: 20px;
-}
-
-.safariData {
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
-}
-
-.safariDataTitle {
-    font-size: 25px;
+.headingSubtitle {
+    font-size: 20px;
     font-weight: 800;
     color: var(--green);
 }
 
-.safariDataOptions {
-    text-decoration: underline;
-}
-
-.safariDataInfo {
+.section {
+    max-width: 1000px;
     display: flex;
     flex-direction: column;
     gap: 20px;
 }
 
-.safariDataInfoSection {
+.sectionHeading {
     display: flex;
     flex-direction: column;
     gap: 5px;
 }
 
-.safariDataInfoSectionTitle {
+.sectionHeadingTitle {
+    font-weight: 800;
+    font-style: italic;
+}
+
+.sectionSafaris {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.sectionSafarisSafari {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.sectionSafarisSafariTitle {
+    color: var(--green);
     font-size: 20px;
     font-weight: 800;
 }
 
-.safariDataList {
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-}
-
-.safariDataListTitle {
+.sectionSafarisSafariText span {
     font-weight: 800;
-    text-decoration: 2px underline;
 }
 
-.safariDataListList {
+.sectionSafarisProgress {
     display: flex;
     flex-direction: column;
     gap: 5px;
 }
 
-.safariDataListListElement::marker {
-    font-weight: 800;
-    color: var(--green);
+.sectionSafarisProgressTitle {
+    text-decoration: underline;
 }
 
-.safariDivisor {
+.sectionCarousel {
+    max-height: 500px;
     display: flex;
-    justify-content: space-between;
+}
+
+.divisor {
+    width: 100%;
+    max-width: 1000px;
+    display: flex;
     align-items: center;
     gap: 10px;
 }
 
-.safariDivisor hr {
+.divisor hr {
+    height: 3px;
     width: 100%;
-    border: 1px solid var(--brown);
+    background-color: var(--brown);
+    border: none;
 }
 
-.safariDivisor svg {
-    font-size: 70px;
+.divisor svg {
+    height: 30px;
+    font-size: 100px;
 }
 
 @media (max-width: 1024px) {
     .container {
         padding: 50px 20px;
-    }
-    .title {
-        font-size: 20px;
-    }
-}
-
-@media (max-width: 768px) {
-    .safari {
-        grid-template-columns: 1fr;
+        gap: 20px;
     }
 }
