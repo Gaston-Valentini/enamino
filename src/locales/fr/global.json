@@ -75,7 +75,7 @@
     "safarisHeader": "Nos safaris",
     "safaris": {
         "title": "NOS DIFFÉRENTS SAFARIS",
-        "subtitle": "- PN LOANGO selon les saisons -",
+        "subtitle": "Selon les saisons, sur le Parc National de Loango et en dehors",
         "sectionOneTitle": "Durant la saison des pluies, d'octobre à juin:",
         "sectionOneSafariOneTitle": "SAFARI-BATEAU SUR LE PN LOANGO",
         "sectionOneSafariOneTextHeading": "Pour les familles...",
@@ -96,7 +96,7 @@
         "sectionOneSafariThreeText": "Ils évoluent librement à l’intérieur du Parc National de Loango comme à l’extérieur, aire communément nommée « la partie banale ». Ils migrent au gré des saisons vers leurs réservoirs de nourritures et d'oligo-éléments. Situés entre Océan et forêt, les alentours d’Enamino bénéficient d’un site stratégique le long du litoral, là où de nombreux animaux viennent se recharger en sels marins.",
         "sectionOneSafariProgressTwoTitle": "DÉROULEMENT DU TREK ENAMINO",
         "sectionOneSafariProgressTwoOne": "Départ du camp en fin d’après-midi",
-        "sectionOneSafariProgressTwoTwo": "Marche d’1 à 2 heures en lisière de forêt, en direction du lac, à la recherche d’espèces animales venues savourer les vègetaux salès par les embruns marins: éléphant, hippopotame, singe, gorille...",
+        "sectionOneSafariProgressTwoTwo": "Marche d’1 à 2 heures en lisière de forêt, en direction du lac, à la recherche d’espèces animales venues savourer les vègetaux salès par les embruns marins: éléphant, hippopotame, singe, gorille, antílope...",
         "sectionOneSafariProgressTwoThree": "Retour à Enamino en remontant le long de  la plage",
         "sectionOneSafariProgressTwoFour": "Sur responsabilité des parents pour les enfants mineurs",
         "sectionTwoTitle": "Durante la saison sèche, de mi-juin à mi-septembre, safaris UNIQUEMENT À AKAKA situè au Sud du PN LOANGO:",
@@ -117,7 +117,8 @@
         "sectionTwoSafariProgressFour": "Pique-nique en brousse inclus",
         "sectionTwoSafariProgressFive": "Après le déjeuner, èventuellement petit trekking en forêt afin de tenter des marches d’approches pour une meilleure vision animalière",
         "sectionTwoSafariProgressSix": "Retour à la nuit tombée à Enamino",
-        "sectionTwoSafariProgressSeven": "Possibilité de bivouaquer en brousse sur notre campement aux alentours d’Akaka",
+        "sectionTwoSafariProgressSeven": "Possibilité de bivouaquer en brousse sur notre",
+        "sectionTwoSafariProgressSevenLink": "campement aux alentours d’Akaka",
         "sectionTwoSafariProgressEight": "Groupe jusqu’à 8 personnes maximum",
         "sectionTwoSafariProgressNine": "Sur responsabilité des parents pour les enfants mineurs"
     },

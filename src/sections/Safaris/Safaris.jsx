@@ -63,7 +63,7 @@ export default function Safaris() {
                     <div className={style.sectionSafarisSafari}>
                         <p className={style.sectionSafarisSafariTitle}>{t("safaris.sectionOneSafariThreeTitle")}</p>
                         <p className={style.sectionSafarisSafariText}>
-                            <span>{t("safaris.sectionOneSafariThreeTextHeading")}</span>
+                            <span>{t("safaris.sectionOneSafariThreeTextHeading")} </span>
                             {t("safaris.sectionOneSafariThreeText")}
                         </p>
                     </div>
@@ -132,7 +132,7 @@ export default function Safaris() {
                         </p>
                     </div>
                     <div className={style.sectionSafarisSafari}>
-                        <p className={style.sectionSafarisSafariTitle}>{t("safaris.sectionTwoSafariTwoTitle")}</p>
+                        <p className={style.sectionSafarisSafariTitle}>{t("safaris.sectionTwoSafariThreeTitle")}</p>
                         <p className={style.sectionSafarisSafariText}>
                             <span>{t("safaris.sectionTwoSafariThreeTextHeading")}</span>
                             {t("safaris.sectionTwoSafariThreeText")}
@@ -147,7 +147,9 @@ export default function Safaris() {
                             <li>{t("safaris.sectionTwoSafariProgressFour")}</li>
                             <li>{t("safaris.sectionTwoSafariProgressFive")}</li>
                             <li>{t("safaris.sectionTwoSafariProgressSix")}</li>
-                            <li>{t("safaris.sectionTwoSafariProgressSeven")}</li>
+                            <li>
+                                {t("safaris.sectionTwoSafariProgressSeven")} <a href="#">{t("safaris.sectionTwoSafariProgressSevenLink")}</a>
+                            </li>
                             <li>{t("safaris.sectionTwoSafariProgressEight")}</li>
                             <li>{t("safaris.sectionTwoSafariProgressNine")}</li>
                         </ul>

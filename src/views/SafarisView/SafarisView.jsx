@@ -11,8 +11,8 @@ export default function SafarisView() {
     return (
         <section className={style.container}>
             <HeaderComponent image={headerImage} text={t("safarisHeader")} />
-            <Safaris />
             <Loango />
+            <Safaris />
         </section>
     );
 }

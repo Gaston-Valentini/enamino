@@ -5,7 +5,6 @@
     align-items: center;
     gap: 50px;
     background-color: var(--white);
-    box-shadow: 0 0 10px black;
 }
 
 .heading {
@@ -22,9 +21,7 @@
 }
 
 .headingSubtitle {
-    font-size: 20px;
     font-weight: 800;
-    color: var(--green);
 }
 
 .section {
