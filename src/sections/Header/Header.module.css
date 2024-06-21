@@ -46,6 +46,20 @@
     color: var(--green);
 }
 
+.audio {
+    padding: 10px;
+    color: var(--white);
+    background-color: transparent;
+    border: 1px solid var(--white);
+    transition: 0.3s;
+}
+
+.audio:hover {
+    cursor: pointer;
+    color: var(--brown);
+    background-color: var(--white);
+}
+
 @media (max-width: 834px) {
     .overlay {
         padding: 50px 20px;

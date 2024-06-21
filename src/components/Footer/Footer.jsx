@@ -32,12 +32,39 @@ export default function Footer() {
                 </li>
             </ul>
             <div className={style.widget}>
-                <a
-                    href="https://www.petitfute.com/v56217-parc-national-de-loango/c1166-hebergement/c158-hotel/342697-l-eco-village-d-enamino.html"
-                    target="_blank"
-                >
+                <a href="https://www.petitfute.com/v56217-parc-national-de-loango/c1166-hebergement/c158-hotel/342697-l-eco-village-d-enamino.html" target="_blank">
                     <img src="https://www.petitfute.com/img/widget/logo.jpg" />
                 </a>
+            </div>
+            <div className={style.links}>
+                <p className={style.linksTitle}>{t("footer.linksTitle")}</p>
+                <ul className={style.linksList}>
+                    <li>
+                        <a href="https://www.routard.com/forums/c/gabon/142" target="_blank">
+                            {t("footer.linkOne")}
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.petitfute.com/d1298-ogooue-maritime/c1166-hebergement/" target="_blank">
+                            {t("footer.linkTwo")}
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://carnetsdevoyages.jeanlou.fr/Le_Parc_de_Loango/" target="_blank">
+                            {t("footer.linkThree")}
+                        </a>
+                    </li>
+                    <li>
+                        <a href="http://notrevieaugabon.canalblog.com/archives/2012/03/15/24021852.html" target="_blank">
+                            {t("footer.linkFour")}
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.youtube.com/watch?v=AIprYvNcn_A" target="_blank">
+                            {t("footer.linkFive")}
+                        </a>
+                    </li>
+                </ul>
             </div>
             <script language="javascript" type="text/javascript" src="https://pro.petitfute.com/compte/widget/etablissement/337595/src/1/"></script>
             <div className={style.developer}>

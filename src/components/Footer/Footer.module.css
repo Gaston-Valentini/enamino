@@ -1,7 +1,7 @@
 .container {
     padding: 50px;
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
     gap: 50px;
     background-color: var(--white);
 }
@@ -44,12 +44,30 @@
 
 .widget img {
     height: 100%;
+    max-height: 150px;
     border: 2px solid var(--brown);
     transition: 0.3s;
 }
 
 .widget img:hover {
     box-shadow: 0 0 4px black;
+}
+
+.links {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.linksTitle {
+    font-weight: 800;
+}
+
+.linksList {
+    padding-left: 17px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
 }
 
 .developer {
@@ -90,6 +108,12 @@
 
 .developerIcons a:hover path {
     color: var(--white);
+}
+
+@media (max-width: 1440px) {
+    .container {
+        grid-template-columns: 1fr 1fr 1fr;
+    }
 }
 
 @media (max-width: 834px) {

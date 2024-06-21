@@ -1,4 +1,4 @@
-import { APIProvider, Map as MapComponent, AdvancedMarker, Pin } from "@vis.gl/react-google-maps";
+import { APIProvider, Map as MapComponent, AdvancedMarker, Pin, InfoWindow } from "@vis.gl/react-google-maps";
 import position from "../../assets/images/position.png";
 import binoculars from "../../assets/images/binoculars.png";
 import church from "../../assets/images/church.png";
@@ -24,12 +24,13 @@ export default function Map() {
 
     return (
         <APIProvider apiKey={import.meta.env.VITE_GOOGLE_API_KEY}>
-            <MapComponent style={{ width: "100%", height: "500px" }} defaultCenter={enamino} defaultZoom={10} mapId={import.meta.env.VITE_MAP_ID}>
+            <MapComponent style={{ width: "100%", height: "500px" }} defaultCenter={enamino} defaultZoom={9} mapId={import.meta.env.VITE_MAP_ID}>
                 <AdvancedMarker position={enamino}>
                     <Pin background={"rgba(0,0,0,0)"} borderColor={"rgba(0,0,0,0)"} glyphColor={"rgba(0,0,0,0)"}>
                         <img src={position} height={50} />
                     </Pin>
                 </AdvancedMarker>
+                <InfoWindow position={enamino}>L'Eco-Village d'Enamino</InfoWindow>
                 <AdvancedMarker position={oboue}>
                     <Pin background={"rgba(0,0,0,0)"} borderColor={"rgba(0,0,0,0)"} glyphColor={"rgba(0,0,0,0)"}>
                         <img src={temple} height={30} />
@@ -85,6 +86,7 @@ export default function Map() {
                         <img src={tent} height={30} />
                     </Pin>
                 </AdvancedMarker>
+                <InfoWindow position={CampementDeBrousseDEnaminoAAkaka}>Campament Akaka</InfoWindow>
             </MapComponent>
         </APIProvider>
     );
