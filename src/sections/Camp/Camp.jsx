@@ -25,8 +25,7 @@ export default function Camp() {
                         {t("camp.textOne")}
                         <br />
                         <br />
-                        {t("camp.textTwo")}
-                        <Link to="/contact">{t("camp.link")}</Link>
+                        {t("camp.textTwo")} <Link to="/contact">{t("camp.link")}</Link>
                         {t("camp.textThree")}
                     </p>
                     <button className={style.dataInfoButton}>{t("camp.button")}</button>

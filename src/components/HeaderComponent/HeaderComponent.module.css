@@ -12,8 +12,9 @@
 
 .text {
     text-align: center;
-    font-size: 50px;
     font-family: var(--secondary);
+    font-size: 50px;
+    font-weight: 800;
     color: var(--white);
 }
 
