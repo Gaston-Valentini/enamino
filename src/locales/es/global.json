@@ -1,7 +1,7 @@
 {
     "header": {
         "slogan": "Un paraíso africano con una biodiversidad excepcional, donde puedes disfrutar de tranquilidad y experimentar la vida salvaje en su estado más puro",
-        "audio": "Escuchar al elefante"
+        "audio": "Por un instante, imagínate en inmersión en la jungla ecuatorial de Gabón, rodeado de animales. ¡Haz clic en el botón!"
     },
     "navbar": {
         "linkOne": "Nuestro Eco-Village",
@@ -179,9 +179,9 @@
         "languages": "Idiomas",
         "languagesOne": "Oficial: Francés",
         "languagesTwo": "Vernáculos: Fang, Myènè, Bapoumou, Bandjabi, Obamba",
-        "ethnicGroups": "Grupos étnicos",
-        "ethnicGroupsOne": "La población indígena está compuesta por dos grandes grupos raciales: los pigmeos (1% de la población) y los bantúes",
-        "ethnicGroupsTwo": "Existen 6 grandes grupos bantúes: Fang, Bapounou, Mbédé, Bandjabi, Bakota, Omyènè, y más de 50 etnias",
+        "groups": "Grupos étnicos",
+        "groupsOne": "La población indígena está compuesta por dos grandes grupos raciales: los pigmeos (1% de la población) y los bantúes",
+        "groupsTwo": "Existen 6 grandes grupos bantúes: Fang, Bapounou, Mbédé, Bandjabi, Bakota, Omyènè, y más de 50 etnias",
         "religion": "Religión",
         "religionOne": "76.5% Cristianos y 11.2% Musulmanes",
         "provinces": "Provincias (9)",

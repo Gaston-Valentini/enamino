@@ -32,14 +32,13 @@
 }
 
 .dataInfoText a {
-    text-decoration: none;
-    font-weight: 800;
-    color: var(--green);
+    color: var(--white);
 }
 
 .dataInfoButton {
     align-self: flex-start;
     padding: 10px;
+    text-decoration: none;
     font-weight: 600;
     color: var(--white);
     background-color: var(--brown);

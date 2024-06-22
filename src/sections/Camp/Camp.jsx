@@ -28,7 +28,9 @@ export default function Camp() {
                         {t("camp.textTwo")} <Link to="/contact">{t("camp.link")}</Link>
                         {t("camp.textThree")}
                     </p>
-                    <button className={style.dataInfoButton}>{t("camp.button")}</button>
+                    <Link to="/contact" className={style.dataInfoButton}>
+                        {t("camp.button")}
+                    </Link>
                 </div>
             </div>
             <Carousel>

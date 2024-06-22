@@ -1,7 +1,7 @@
 {
     "header": {
         "slogan": "An African paradise with exceptional biodiversity, where you can enjoy tranquility and taste pure wildlife.",
-        "audio": "Listen to the elephant"
+        "audio": "For a moment, imagine yourself immersed in the equatorial jungle of Gabon, surrounded by animals! Click the button"
     },
     "navbar": {
         "linkOne": "Our Eco-Village",
@@ -179,9 +179,9 @@
         "languages": "Languages",
         "languagesOne": "Official: French",
         "languagesTwo": "Vernacular: Fang, Myènè, Bapoumou, Bandjabi, Obamba",
-        "ethnicGroups": "Ethnic Groups",
-        "ethnicGroupsOne": "The indigenous population consists of 2 major racial groups: Pygmies (1% of the population) and Bantus",
-        "ethnicGroupsTwo": "There are 6 major Bantu groups: Fang, Bapounou, Mbédé, Bandjabi, Bakota, Omyènè, and over 50 ethnicities",
+        "groups": "Ethnic Groups",
+        "groupsOne": "The indigenous population consists of 2 major racial groups: Pygmies (1% of the population) and Bantus",
+        "groupsTwo": "There are 6 major Bantu groups: Fang, Bapounou, Mbédé, Bandjabi, Bakota, Omyènè, and over 50 ethnicities",
         "religion": "Religion",
         "religionOne": "76.5% Christians and 11.2% Muslims",
         "provinces": "Provinces (9)",
