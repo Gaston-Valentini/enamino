@@ -13,14 +13,15 @@ export default function Navbar() {
     const [language, setLanguage] = useState("fr");
     const [menuMobile, setMenuMobile] = useState(false);
 
-    const handleLanguage = (e) => {
-        setLanguage(e.target.value);
-        i18n.changeLanguage(e.target.value);
-    };
-
     const handleMenu = () => {
         window.scrollTo(0, 0);
         setMenuMobile(!menuMobile);
+    };
+
+    const handleLanguage = (e) => {
+        setLanguage(e.target.value);
+        i18n.changeLanguage(e.target.value);
+        handleMenu();
     };
 
     return (
